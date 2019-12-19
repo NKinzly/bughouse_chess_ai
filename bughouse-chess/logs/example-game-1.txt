@@ -1,0 +1,10 @@
+INFO:root:new game: synchronous, comm False; whiteA PartneredAI, whiteB human bryce, blackA human caroline, blackB PartneredAI
+INFO:root:new game: synchronous, comm False; whiteA PartneredAI, whiteB human bryce, blackA human caroline, blackB PartneredAI
+INFO:root:move: whiteA moved g1h3
+INFO:root:move: whiteB bryce moved b2b4
+INFO:root:move: blackA caroline moved d7d5
+INFO:root:move: blackB moved b8c6
+INFO:root:move: whiteA moved h3g5
+INFO:root:move: whiteB bryce moved b1c3
+INFO:root:move: blackA caroline moved c7c5
+INFO:root:move: blackB moved c6b4

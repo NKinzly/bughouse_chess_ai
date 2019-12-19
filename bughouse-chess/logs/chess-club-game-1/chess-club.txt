@@ -1,0 +1,30 @@
+INFO:root:Misha, chess club November 15, Bryce's computer; pypy 3.6
+INFO:root:random seed is 1573859425
+INFO:root:new game: synchronous, comm False; whiteA PartneredAI, whiteB human Misha, blackA human Misha_1, blackB PartneredAI
+INFO:root:move: whiteA moved g1h3
+INFO:root:move: whiteB Misha moved e2e4
+INFO:root:move: blackA Misha_1 moved e7e6
+INFO:root:move: blackB moved g8h6
+INFO:root:move: whiteA moved h3g5
+INFO:root:move: whiteB Misha moved g1f3
+INFO:root:move: blackA Misha_1 moved d8g5
+INFO:root:move: blackB moved h8g8
+INFO:root:move: whiteA moved h1g1
+INFO:root:move: whiteB Misha moved d2d4
+INFO:root:move: blackA Misha_1 moved g8h6
+INFO:root:move: blackB moved g8h8
+INFO:root:move: whiteA moved g1h1
+INFO:root:move: whiteB Misha moved f3e5
+INFO:root:move: blackA Misha_1 moved h6g4
+INFO:root:move: blackB moved h8g8
+INFO:root:move: whiteA moved h1g1
+INFO:root:move: whiteB Misha moved c1h6
+INFO:root:move: blackA Misha_1 moved g4f2
+INFO:root:move: blackB moved g8h8
+INFO:root:move: whiteA moved e1f2
+INFO:root:move: whiteB Misha moved e5f7
+INFO:root:move: blackA Misha_1 moved N@e4
+INFO:root:move: blackB moved h8g8
+INFO:root:move: whiteA moved f2f3
+INFO:root:move: whiteB Misha moved f7d8
+INFO:root:move: blackA Misha_1 moved Q@g4

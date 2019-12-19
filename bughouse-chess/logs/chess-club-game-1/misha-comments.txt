@@ -1,0 +1,15 @@
+Misha's comments
+
+Doesn't really move pawns.
+
+Seems to have a poor evaluation function.
+
+It actively chose not to protect its queen
+
+
+
+
+
+Comments about bughouse generally:
+* more dangerous for the king to be out in the open
+* double pawns aren't really a thing

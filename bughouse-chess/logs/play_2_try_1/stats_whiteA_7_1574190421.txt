@@ -1,0 +1,11 @@
+Stats for Agent whiteA
+Total States for game: 8910765
+Max branching factor for game: 12.119654447211307
+Average states per move for game: 1272966.4285714286
+Average eval function execution time for game: 1.0515105683314888e-05
+Eval function execution count: 6411522
+States for current turn: 3169140
+Current turn branching factor: 12.119654447211307
+Current turn eval function time: 25.05080795288086
+Current turn eval function count: 2298258
+Current turn eval function average time: 1.0899911129595049e-05

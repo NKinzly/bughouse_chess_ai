@@ -1,0 +1,11 @@
+Stats for Agent blackB
+Total States for game: 12013939
+Max branching factor for game: 12.415429641254965
+Average states per move for game: 3003484.75
+Average eval function execution time for game: 9.563920431175108e-06
+Eval function execution count: 10756198
+States for current turn: 3046737
+Current turn branching factor: 12.04035137356588
+Current turn eval function time: 25.820581436157227
+Current turn eval function count: 2713428
+Current turn eval function average time: 9.515852801753807e-06

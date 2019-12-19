@@ -1,0 +1,6 @@
+INFO:root:November 19; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574181380
+INFO:root:play_1: all players are PartneredAI, non-communicating, using iterative deepening to max_depth 6/max_states 1000000, with basic material evaluation
+INFO:root:November 19; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574182254
+INFO:root:play_1: all players are PartneredAI, non-communicating, using iterative deepening to max_depth 6/max_states 1000000, with basic material evaluation

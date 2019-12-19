@@ -1,0 +1,3 @@
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1575481567
+INFO:root:play_1: all players are PartneredAI, non-communicating, using iterative deepening to max_depth 4/max_states 1000000, with basic material evaluation

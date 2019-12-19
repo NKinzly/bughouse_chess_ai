@@ -1,0 +1,22 @@
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1573861405
+INFO:root:new game: synchronous, comm False; whiteA PartneredAI, whiteB human adam, blackA human Camden, blackB PartneredAI
+INFO:root:move: whiteA moved g1h3
+INFO:root:move: whiteB adam moved e2e3
+INFO:root:move: blackA Camden moved e7e5
+INFO:root:move: blackB moved g8h6
+INFO:root:move: whiteA moved h3g5
+INFO:root:move: whiteB adam moved f1a6
+INFO:root:move: blackA Camden moved d8g5
+INFO:root:move: blackB moved h8g8
+INFO:root:move: whiteA moved h1g1
+INFO:root:move: whiteB adam moved a6b5
+INFO:root:move: blackA Camden moved f8c5
+INFO:root:move: blackB moved g8h8
+INFO:root:move: whiteA moved g1h1
+INFO:root:move: whiteB adam moved d1h5
+INFO:root:move: blackA Camden moved g5f5
+INFO:root:move: blackB moved h8g8
+INFO:root:move: whiteA moved h1g1
+INFO:root:move: whiteB adam moved h5h6
+INFO:root:move: blackA Camden moved c5f2

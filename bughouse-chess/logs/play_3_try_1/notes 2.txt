@@ -1,0 +1,1 @@
+So, even though I've introduced randomization of move order, the black players still alternate between h8 and g8 with the rook

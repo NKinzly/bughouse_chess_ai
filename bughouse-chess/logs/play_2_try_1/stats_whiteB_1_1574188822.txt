@@ -1,0 +1,11 @@
+Stats for Agent whiteB
+Total States for game: 963894
+Max branching factor for game: 9.938897524676456
+Average states per move for game: 963894.0
+Average eval function execution time for game: 1.2206414106556174e-05
+Eval function execution count: 730388
+States for current turn: 963894
+Current turn branching factor: 9.938897524676456
+Current turn eval function time: 8.91541838645935
+Current turn eval function count: 730388
+Current turn eval function average time: 1.2206414106556174e-05

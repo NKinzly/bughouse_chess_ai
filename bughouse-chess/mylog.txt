@@ -1,0 +1,11 @@
+xboard
+protover 2
+feature myname="Liam"
+feature ping=1
+feature setboard=1
+new
+force
+st 2
+nopost
+easy
+go

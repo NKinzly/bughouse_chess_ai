@@ -1,0 +1,37 @@
+INFO:root:random seed is 1573852759
+INFO:root:random seed is 1573852815
+INFO:root:move: whiteA moved g1h3
+INFO:root:move: whiteB random moved f2f3
+INFO:root:move: blackA random moved g8f6
+INFO:root:move: blackB moved g8h6
+INFO:root:move: whiteA moved h3g5
+INFO:root:move: whiteB random moved d2d3
+INFO:root:move: blackA random moved b7b5
+INFO:root:move: blackB moved h8g8
+INFO:root:move: whiteA moved g5h7
+INFO:root:move: whiteB random moved a2a4
+INFO:root:move: blackA random moved f6e4
+INFO:root:move: blackB moved g8h8
+INFO:root:move: whiteA moved h7f8
+INFO:root:move: whiteB random moved g1h3
+INFO:root:move: blackA random moved e8f8
+INFO:root:move: blackB moved h8g8
+INFO:root:move: whiteA moved h1g1
+INFO:root:move: whiteB random moved N@e5
+INFO:root:move: blackA random moved g7g5
+INFO:root:move: blackB moved g8h8
+INFO:root:move: whiteA moved g1h1
+INFO:root:move: whiteB random moved g2g3
+INFO:root:move: blackA random moved h8h7
+INFO:root:move: blackB moved h8g8
+INFO:root:move: whiteA moved h1g1
+INFO:root:move: whiteB random moved b2b3
+INFO:root:move: blackA random moved h7g7
+INFO:root:move: blackB moved g8h8
+INFO:root:move: whiteA moved g1h1
+INFO:root:move: whiteB random moved b1a3
+INFO:root:move: blackA random moved f8g8
+INFO:root:move: blackB moved h8g8
+INFO:root:move: whiteA moved h1g1
+INFO:root:move: whiteB random moved f1g2
+INFO:root:move: blackA random moved g8h7

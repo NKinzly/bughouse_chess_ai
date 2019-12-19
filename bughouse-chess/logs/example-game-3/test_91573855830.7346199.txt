@@ -1,0 +1,10 @@
+Total States for game: 74756
+Max branching factor for game: 10.662052976738641
+Average states per move for game: 8306.222222222223
+Average eval function execution time for game: 3.553057467494538e-05
+Eval function execution count: 62386
+States for current turn: 12788
+Branching factor for current turn: 10.662052976738641
+Current turn eval function time: 0.3467984199523926
+Current turn eval function time: 11132
+Current turn eval function average time: 3.115328961124619e-05

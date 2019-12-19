@@ -1,0 +1,165 @@
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574099076
+INFO:root:new game: synchronous, comm False; whiteA PartneredAI, whiteB human liam, blackA human nathaniel, blackB PartneredAI
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574099281
+INFO:root:new game: synchronous, comm False; whiteA PartneredAI, whiteB human hi, blackA human hi, blackB PartneredAI
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574099428
+INFO:root:new game: synchronous, comm False; whiteA PartneredAI, whiteB human , blackA human , blackB PartneredAI
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574099591
+INFO:root:new game: synchronous, comm False; whiteA PartneredAI, whiteB human , blackA human , blackB PartneredAI
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574099615
+INFO:root:new game: synchronous, comm False; whiteA PartneredAI, whiteB human person1, blackA human person2, blackB PartneredAI
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574099652
+INFO:root:new game: synchronous, comm False; whiteA PartneredAI, whiteB human , blackA human , blackB PartneredAI
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574099740
+INFO:root:new game: synchronous, comm False; whiteA PartneredAI, whiteB human , blackA human , blackB PartneredAI
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574099799
+INFO:root:new game: synchronous, comm False; whiteA PartneredAI, whiteB human , blackA human , blackB PartneredAI
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574099865
+INFO:root:new game: synchronous, comm False; whiteA PartneredAI, whiteB human , blackA human , blackB PartneredAI
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574200022
+INFO:root:new game: synchronous, comm False; whiteA PartneredAI, whiteB human , blackA human , blackB PartneredAI
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574470115
+INFO:root:play_1: all players are PartneredAI, non-communicating, using iterative deepening to max_depth 6/max_states 1000000, with basic material evaluation
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574470203
+INFO:root:play_1: all players are PartneredAI, non-communicating, using iterative deepening to max_depth 6/max_states 1000000, with basic material evaluation
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574470239
+INFO:root:play_1: all players are PartneredAI, non-communicating, using iterative deepening to max_depth 6/max_states 1000000, with basic material evaluation
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574470264
+INFO:root:play_1: all players are PartneredAI, non-communicating, using iterative deepening to max_depth 6/max_states 1000000, with basic material evaluation
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574470346
+INFO:root:play_1: all players are PartneredAI, non-communicating, using iterative deepening to max_depth 6/max_states 1000000, with basic material evaluation
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574470367
+INFO:root:play_1: all players are PartneredAI, non-communicating, using iterative deepening to max_depth 6/max_states 1000000, with basic material evaluation
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574470463
+INFO:root:play_1: all players are PartneredAI, non-communicating, using iterative deepening to max_depth 6/max_states 1000000, with basic material evaluation
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574470471
+INFO:root:play_1: all players are PartneredAI, non-communicating, using iterative deepening to max_depth 6/max_states 1000000, with basic material evaluation
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574470656
+INFO:root:play_1: all players are PartneredAI, non-communicating, using iterative deepening to max_depth 6/max_states 1000000, with basic material evaluation
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574470670
+INFO:root:play_1: all players are PartneredAI, non-communicating, using iterative deepening to max_depth 6/max_states 1000000, with basic material evaluation
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574470689
+INFO:root:play_1: all players are PartneredAI, non-communicating, using iterative deepening to max_depth 6/max_states 1000000, with basic material evaluation
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574470764
+INFO:root:play_1: all players are PartneredAI, non-communicating, using iterative deepening to max_depth 6/max_states 1000000, with basic material evaluation
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574470975
+INFO:root:play_1: all players are PartneredAI, non-communicating, using iterative deepening to max_depth 6/max_states 1000000, with basic material evaluation
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574471382
+INFO:root:play_1: all players are PartneredAI, non-communicating, using iterative deepening to max_depth 6/max_states 1000000, with basic material evaluation
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574471443
+INFO:root:play_1: all players are PartneredAI, non-communicating, using iterative deepening to max_depth 6/max_states 1000000, with basic material evaluation
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574471803
+INFO:root:play_1: all players are PartneredAI, non-communicating, using iterative deepening to max_depth 6/max_states 1000000, with basic material evaluation
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574472174
+INFO:root:play_1: all players are PartneredAI, non-communicating, using iterative deepening to max_depth 6/max_states 1000000, with basic material evaluation
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574472232
+INFO:root:play_1: all players are PartneredAI, non-communicating, using iterative deepening to max_depth 6/max_states 1000000, with basic material evaluation
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574472250
+INFO:root:play_1: all players are PartneredAI, non-communicating, using iterative deepening to max_depth 6/max_states 1000000, with basic material evaluation
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574472352
+INFO:root:play_1: all players are PartneredAI, non-communicating, using iterative deepening to max_depth 6/max_states 1000000, with basic material evaluation
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574472418
+INFO:root:play_1: all players are PartneredAI, non-communicating, using iterative deepening to max_depth 6/max_states 1000000, with basic material evaluation
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574472429
+INFO:root:play_1: all players are PartneredAI, non-communicating, using iterative deepening to max_depth 6/max_states 1000000, with basic material evaluation
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574472458
+INFO:root:play_1: all players are PartneredAI, non-communicating, using iterative deepening to max_depth 6/max_states 1000000, with basic material evaluation
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574472623
+INFO:root:play_1: all players are PartneredAI, non-communicating, using iterative deepening to max_depth 6/max_states 1000000, with basic material evaluation
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574636199
+INFO:root:play_1: all players are PartneredAI, non-communicating, using iterative deepening to max_depth 6/max_states 1000000, with basic material evaluation
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574636696
+INFO:root:play_1: all players are PartneredAI, non-communicating, using iterative deepening to max_depth 6/max_states 1000000, with basic material evaluation
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574636709
+INFO:root:play_1: all players are PartneredAI, non-communicating, using iterative deepening to max_depth 6/max_states 1000000, with basic material evaluation
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574636949
+INFO:root:play_1: all players are PartneredAI, non-communicating, using iterative deepening to max_depth 6/max_states 1000000, with basic material evaluation
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574637837
+INFO:root:play_1: all players are PartneredAI, non-communicating, using iterative deepening to max_depth 6/max_states 1000000, with basic material evaluation
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574637884
+INFO:root:play_1: all players are PartneredAI, non-communicating, using iterative deepening to max_depth 6/max_states 1000000, with basic material evaluation
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574637918
+INFO:root:play_1: all players are PartneredAI, non-communicating, using iterative deepening to max_depth 6/max_states 1000000, with basic material evaluation
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574637934
+INFO:root:play_1: all players are PartneredAI, non-communicating, using iterative deepening to max_depth 6/max_states 1000000, with basic material evaluation
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574637955
+INFO:root:play_1: all players are PartneredAI, non-communicating, using iterative deepening to max_depth 6/max_states 1000000, with basic material evaluation
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574638955
+INFO:root:play_1: all players are PartneredAI, non-communicating, using iterative deepening to max_depth 6/max_states 1000000, with basic material evaluation
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574639025
+INFO:root:play_1: all players are PartneredAI, non-communicating, using iterative deepening to max_depth 6/max_states 1000000, with basic material evaluation
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574639053
+INFO:root:play_1: all players are PartneredAI, non-communicating, using iterative deepening to max_depth 6/max_states 1000000, with basic material evaluation
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574639331
+INFO:root:play_1: all players are PartneredAI, non-communicating, using iterative deepening to max_depth 6/max_states 1000000, with basic material evaluation
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574639733
+INFO:root:play_1: all players are PartneredAI, non-communicating, using iterative deepening to max_depth 6/max_states 1000000, with basic material evaluation
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574639778
+INFO:root:play_1: all players are PartneredAI, non-communicating, using iterative deepening to max_depth 6/max_states 1000000, with basic material evaluation
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574639916
+INFO:root:play_1: all players are PartneredAI, non-communicating, using iterative deepening to max_depth 6/max_states 1000000, with basic material evaluation
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574640415
+INFO:root:play_1: all players are PartneredAI, non-communicating, using iterative deepening to max_depth 6/max_states 1000000, with basic material evaluation
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574640478
+INFO:root:play_1: all players are PartneredAI, non-communicating, using iterative deepening to max_depth 6/max_states 1000000, with basic material evaluation
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574640501
+INFO:root:play_1: all players are PartneredAI, non-communicating, using iterative deepening to max_depth 6/max_states 1000000, with basic material evaluation
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574640582
+INFO:root:play_1: all players are PartneredAI, non-communicating, using iterative deepening to max_depth 6/max_states 1000000, with basic material evaluation
+INFO:root:Adam white B, Camden black A; November 15; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574640891
+INFO:root:play_1: all players are PartneredAI, non-communicating, using iterative deepening to max_depth 6/max_states 1000000, with basic material evaluation

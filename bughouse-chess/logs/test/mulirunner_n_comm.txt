@@ -1,0 +1,445 @@
+INFO:root:Nathaniel running | Pypy v7.2.0
+INFO:root:random seed is 1576444693
+INFO:root:Running multirunner_3
+INFO:root:Running play_16() communication=True, pocket_val = .25, base first
+INFO:root:play_14: team 1 players are PartneredAI, communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2;  team 2 players are PartneredAI, non-communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2
+INFO:root:move: whiteA moved g1f3
+INFO:root:move: whiteB moved g1f3
+INFO:root:move: blackA moved e7e6
+INFO:root:move: blackB moved f7f6
+INFO:root:Nathaniel running | Pypy v7.2.0
+INFO:root:random seed is 1576444720
+INFO:root:Running multirunner_3
+INFO:root:Running play_16() communication=True, pocket_val = .25, base first
+INFO:root:play_14: team 1 players are PartneredAI, communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2;  team 2 players are PartneredAI, non-communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2
+INFO:root:move: whiteA moved g1f3
+INFO:root:Nathaniel running | Pypy v7.2.0
+INFO:root:random seed is 1576444975
+INFO:root:Running multirunner_3
+INFO:root:Running play_16() communication=True, pocket_val = .25, base first
+INFO:root:play_14: team 1 players are PartneredAI, communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2;  team 2 players are PartneredAI, non-communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2
+INFO:root:Stats for Agent whiteA
+
+INFO:root:
+
+INFO:root:Stats for Agent whiteB
+
+INFO:root:
+
+INFO:root:Stats for Agent blackA
+
+INFO:root:
+
+INFO:root:Stats for Agent blackB
+
+INFO:root:
+
+INFO:root:Nathaniel running | Pypy v7.2.0
+INFO:root:random seed is 1576445007
+INFO:root:Running multirunner_3
+INFO:root:Running play_16() communication=True, pocket_val = .25, base first
+INFO:root:play_14: team 1 players are PartneredAI, communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2;  team 2 players are PartneredAI, non-communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2
+INFO:root:Stats for Agent whiteA
+
+INFO:root:
+
+INFO:root:Stats for Agent whiteB
+
+INFO:root:
+
+INFO:root:Stats for Agent blackA
+
+INFO:root:
+
+INFO:root:Stats for Agent blackB
+
+INFO:root:
+
+INFO:root:Nathaniel running | Pypy v7.2.0
+INFO:root:random seed is 1576445041
+INFO:root:Running multirunner_3
+INFO:root:Running play_16() communication=True, pocket_val = .25, base first
+INFO:root:play_14: team 1 players are PartneredAI, communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2;  team 2 players are PartneredAI, non-communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2
+INFO:root:move: whiteA moved g1f3
+INFO:root:move: whiteB moved g1f3
+INFO:root:move: blackA moved e7e6
+INFO:root:move: blackB moved f7f6
+INFO:root:move: whiteA moved d2d4
+INFO:root:move: whiteB moved b1c3
+INFO:root:move: blackA moved g8f6
+INFO:root:move: blackB moved c7c6
+INFO:root:move: whiteA moved e2e3
+INFO:root:move: whiteB moved e2e4
+INFO:root:move: blackA moved b8c6
+INFO:root:move: blackB moved d7d6
+INFO:root:move: whiteA moved f1c4
+INFO:root:move: whiteB moved f1c4
+INFO:root:move: blackA moved d7d5
+INFO:root:move: blackB moved c8g4
+INFO:root:move: whiteA moved c4b5
+INFO:root:move: whiteB moved h2h3
+INFO:root:move: blackA moved a7a6
+INFO:root:move: blackB moved g4d7
+INFO:root:Nathaniel running | Pypy v7.2.0
+INFO:root:random seed is 1576445675
+INFO:root:Running multirunner_3
+INFO:root:Running play_16() communication=True, pocket_val = .25, base first
+INFO:root:play_14: team 1 players are PartneredAI, communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2;  team 2 players are PartneredAI, non-communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2
+INFO:root:move: whiteA moved g1f3
+INFO:root:move: whiteB moved g1f3
+INFO:root:move: blackA moved e7e6
+INFO:root:move: blackB moved f7f6
+INFO:root:move: whiteA moved d2d4
+INFO:root:move: whiteB moved b1c3
+INFO:root:move: blackA moved g8f6
+INFO:root:move: blackB moved c7c6
+INFO:root:move: whiteA moved e2e3
+INFO:root:move: whiteB moved e2e4
+INFO:root:move: blackA moved b8c6
+INFO:root:move: blackB moved d7d6
+INFO:root:move: whiteA moved f1c4
+INFO:root:move: whiteB moved f1c4
+INFO:root:move: blackA moved d7d5
+INFO:root:move: blackB moved c8g4
+INFO:root:move: whiteA moved c4b5
+INFO:root:move: whiteB moved h2h3
+INFO:root:move: blackA moved a7a6
+INFO:root:move: blackB moved g4d7
+INFO:root:move: whiteA moved b5c6
+INFO:root:move: whiteB moved c4g8
+INFO:root:move: blackA moved b7c6
+INFO:root:move: blackB moved h8g8
+INFO:root:move: whiteA moved B@h4
+INFO:root:Nathaniel running | Pypy v7.2.0
+INFO:root:random seed is 1576453283
+INFO:root:Running play_16() communication=True, pocket_val = 0.5, base first
+INFO:root:play_14: team 1 players are PartneredAI, communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2;  team 2 players are PartneredAI, non-communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2
+INFO:root:Stats for Agent whiteA
+
+INFO:root:
+
+INFO:root:Stats for Agent whiteB
+
+INFO:root:
+
+INFO:root:Stats for Agent blackA
+
+INFO:root:
+
+INFO:root:Stats for Agent blackB
+
+INFO:root:
+
+INFO:root:Nathaniel running | Pypy v7.2.0
+INFO:root:random seed is 1576453315
+INFO:root:Running play_16() communication=True, pocket_val = 0.5, base first
+INFO:root:play_14: team 1 players are PartneredAI, communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2;  team 2 players are PartneredAI, non-communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2
+INFO:root:Stats for Agent whiteA
+
+INFO:root:
+
+INFO:root:Stats for Agent whiteB
+
+INFO:root:
+
+INFO:root:Stats for Agent blackA
+
+INFO:root:
+
+INFO:root:Stats for Agent blackB
+
+INFO:root:
+
+INFO:root:Nathaniel running | Pypy v7.2.0
+INFO:root:random seed is 1576453505
+INFO:root:Running play_16() communication=True, pocket_val = 0.5, base first
+INFO:root:play_14: team 1 players are PartneredAI, communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2;  team 2 players are PartneredAI, non-communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2
+INFO:root:Stats for Agent whiteA
+
+INFO:root:
+
+INFO:root:Stats for Agent whiteB
+
+INFO:root:
+
+INFO:root:Stats for Agent blackA
+
+INFO:root:
+
+INFO:root:Stats for Agent blackB
+
+INFO:root:
+
+INFO:root:Nathaniel running | Pypy v7.2.0
+INFO:root:random seed is 1576453521
+INFO:root:Running play_16() communication=True, pocket_val = 0.5, base first
+INFO:root:play_14: team 1 players are PartneredAI, communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2;  team 2 players are PartneredAI, non-communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2
+INFO:root:Nathaniel running | Pypy v7.2.0
+INFO:root:random seed is 1576453582
+INFO:root:Running play_16() communication=True, pocket_val = 0.5, base first
+INFO:root:play_14: team 1 players are PartneredAI, communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2;  team 2 players are PartneredAI, non-communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2
+INFO:root:Stats for Agent whiteA
+
+INFO:root:
+
+INFO:root:Stats for Agent whiteB
+
+INFO:root:
+
+INFO:root:Stats for Agent blackA
+
+INFO:root:
+
+INFO:root:Stats for Agent blackB
+
+INFO:root:
+
+INFO:root:Nathaniel running | Pypy v7.2.0
+INFO:root:random seed is 1576453683
+INFO:root:Running play_16() communication=True, pocket_val = 0.5, base first
+INFO:root:play_14: team 1 players are PartneredAI, communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2;  team 2 players are PartneredAI, non-communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2
+INFO:root:Nathaniel running | Pypy v7.2.0
+INFO:root:random seed is 1576454320
+INFO:root:Running play_16() communication=True, pocket_val = 0.5, base first
+INFO:root:play_14: team 1 players are PartneredAI, communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2;  team 2 players are PartneredAI, non-communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2
+INFO:root:move: whiteA moved g1f3
+INFO:root:move: whiteB moved g1f3
+INFO:root:move: blackA moved e7e6
+INFO:root:move: blackB moved f7f6
+INFO:root:move: whiteA moved d2d4
+INFO:root:move: whiteB moved b1c3
+INFO:root:move: blackA moved g8f6
+INFO:root:move: blackB moved c7c6
+INFO:root:move: whiteA moved e2e3
+INFO:root:move: whiteB moved e2e4
+INFO:root:move: blackA moved b8c6
+INFO:root:move: blackB moved d7d6
+INFO:root:move: whiteA moved f1c4
+INFO:root:move: whiteB moved f1c4
+INFO:root:Nathaniel running | Pypy v7.2.0
+INFO:root:random seed is 1576454428
+INFO:root:Running play_16() communication=True, pocket_val = 0.5, base first
+INFO:root:play_14: team 1 players are PartneredAI, communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2;  team 2 players are PartneredAI, non-communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2
+INFO:root:move: whiteA moved g1f3
+INFO:root:move: whiteB moved g1f3
+INFO:root:move: blackA moved e7e6
+INFO:root:move: blackB moved f7f6
+INFO:root:move: whiteA moved d2d4
+INFO:root:move: whiteB moved b1c3
+INFO:root:move: blackA moved g8f6
+INFO:root:move: blackB moved c7c6
+INFO:root:move: whiteA moved e2e3
+INFO:root:move: whiteB moved e2e4
+INFO:root:move: blackA moved b8c6
+INFO:root:move: blackB moved d7d6
+INFO:root:move: whiteA moved f1c4
+INFO:root:move: whiteB moved f1c4
+INFO:root:move: blackA moved d7d5
+INFO:root:move: blackB moved c8g4
+INFO:root:move: whiteA moved c4b5
+INFO:root:move: whiteB moved h2h3
+INFO:root:move: blackA moved a7a6
+INFO:root:move: blackB moved g4d7
+INFO:root:move: whiteA moved b5c6
+INFO:root:move: whiteB moved c4g8
+INFO:root:move: blackA moved b7c6
+INFO:root:Nathaniel running | Pypy v7.2.0
+INFO:root:random seed is 1576454570
+INFO:root:Running play_16() communication=True, pocket_val = 0.5, base first
+INFO:root:play_14: team 1 players are PartneredAI, communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2;  team 2 players are PartneredAI, non-communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2
+INFO:root:Nathaniel running | Pypy v7.2.0
+INFO:root:random seed is 1576454638
+INFO:root:Running play_16() communication=True, pocket_val = 0.5, base first
+INFO:root:play_14: team 1 players are PartneredAI, communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2;  team 2 players are PartneredAI, non-communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2
+INFO:root:move: whiteA moved g1f3
+INFO:root:move: whiteB moved g1f3
+INFO:root:move: blackA moved e7e6
+INFO:root:move: blackB moved f7f6
+INFO:root:move: whiteA moved d2d4
+INFO:root:move: whiteB moved b1c3
+INFO:root:Nathaniel running | Pypy v7.2.0
+INFO:root:random seed is 1576454843
+INFO:root:Running play_16() communication=True, pocket_val = 0.5, base first
+INFO:root:play_14: team 1 players are PartneredAI, communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2;  team 2 players are PartneredAI, non-communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2
+INFO:root:Nathaniel running | Pypy v7.2.0
+INFO:root:random seed is 1576462829
+INFO:root:Running play_16() communication=True, pocket_val = 0.5, base first
+INFO:root:play_14: team 1 players are PartneredAI, communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2;  team 2 players are PartneredAI, non-communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2
+INFO:root:Nathaniel running | Pypy v7.2.0
+INFO:root:random seed is 1576463507
+INFO:root:Running play_16() communication=True, pocket_val = 0.5, base first
+INFO:root:play_14: team 1 players are PartneredAI, communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2;  team 2 players are PartneredAI, non-communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2
+INFO:root:move: whiteA moved g1f3
+INFO:root:move: whiteB moved g1f3
+INFO:root:move: blackA moved e7e6
+INFO:root:Nathaniel running | Pypy v7.2.0
+INFO:root:random seed is 1576463575
+INFO:root:Running play_16() communication=True, pocket_val = 0.5, base first
+INFO:root:play_14: team 1 players are PartneredAI, communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2;  team 2 players are PartneredAI, non-communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2
+INFO:root:move: whiteA moved g1f3
+INFO:root:move: whiteB moved g1f3
+INFO:root:move: blackA moved e7e6
+INFO:root:move: blackB moved f7f6
+INFO:root:move: whiteA moved d2d4
+INFO:root:move: whiteB moved b1c3
+INFO:root:move: blackA moved g8f6
+INFO:root:move: blackB moved c7c6
+INFO:root:move: whiteA moved e2e3
+INFO:root:move: whiteB moved e2e4
+INFO:root:move: blackA moved b8c6
+INFO:root:move: blackB moved d7d6
+INFO:root:move: whiteA moved f1c4
+INFO:root:move: whiteB moved f1c4
+INFO:root:move: blackA moved d7d5
+INFO:root:move: blackB moved c8g4
+INFO:root:move: whiteA moved c4b5
+INFO:root:move: whiteB moved h2h3
+INFO:root:move: blackA moved a7a6
+INFO:root:move: blackB moved g4d7
+INFO:root:move: whiteA moved b5c6
+INFO:root:move: whiteB moved c4g8
+INFO:root:move: blackA moved b7c6
+INFO:root:move: blackB moved h8g8
+INFO:root:Nathaniel running | Pypy v7.2.0
+INFO:root:random seed is 1576474127
+INFO:root:Running multirunner_3
+INFO:root:Running play_16() communication=True, pocket_val = .25, base first
+INFO:root:play_14: team 1 players are PartneredAI, communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2;  team 2 players are PartneredAI, non-communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2
+INFO:root:Stats for Agent whiteA
+
+INFO:root:
+
+INFO:root:Stats for Agent whiteB
+
+INFO:root:
+
+INFO:root:Stats for Agent blackA
+
+INFO:root:
+
+INFO:root:Stats for Agent blackB
+
+INFO:root:
+
+INFO:root:Nathaniel running | Pypy v7.2.0
+INFO:root:random seed is 1576474170
+INFO:root:Running multirunner_3
+INFO:root:Running play_16() communication=True, pocket_val = .25, base first
+INFO:root:play_14: team 1 players are PartneredAI, communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2;  team 2 players are PartneredAI, non-communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2
+INFO:root:Stats for Agent whiteA
+
+INFO:root:
+
+INFO:root:Stats for Agent whiteB
+
+INFO:root:
+
+INFO:root:Stats for Agent blackA
+
+INFO:root:
+
+INFO:root:Stats for Agent blackB
+
+INFO:root:
+
+INFO:root:Nathaniel running | Pypy v7.2.0
+INFO:root:random seed is 1576474297
+INFO:root:Running multirunner_3
+INFO:root:Running play_16() communication=True, pocket_val = .25, base first
+INFO:root:play_14: team 1 players are PartneredAI, communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2;  team 2 players are PartneredAI, non-communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2
+INFO:root:Stats for Agent whiteA
+
+INFO:root:
+
+INFO:root:Stats for Agent whiteB
+
+INFO:root:
+
+INFO:root:Stats for Agent blackA
+
+INFO:root:
+
+INFO:root:Stats for Agent blackB
+
+INFO:root:
+
+INFO:root:Nathaniel running | Pypy v7.2.0
+INFO:root:random seed is 1576474425
+INFO:root:Running multirunner_3
+INFO:root:Running play_16() communication=True, pocket_val = .25, base first
+INFO:root:play_14: team 1 players are PartneredAI, communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2;  team 2 players are PartneredAI, non-communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2
+INFO:root:Stats for Agent whiteA
+
+INFO:root:
+
+INFO:root:Stats for Agent whiteB
+
+INFO:root:
+
+INFO:root:Stats for Agent blackA
+
+INFO:root:
+
+INFO:root:Stats for Agent blackB
+
+INFO:root:
+
+INFO:root:Nathaniel running | Pypy v7.2.0
+INFO:root:random seed is 1576474436
+INFO:root:Running multirunner_3
+INFO:root:Running play_16() communication=True, pocket_val = .25, base first
+INFO:root:play_14: team 1 players are PartneredAI, communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2;  team 2 players are PartneredAI, non-communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2
+INFO:root:Stats for Agent whiteA
+
+INFO:root:
+
+INFO:root:Stats for Agent whiteB
+
+INFO:root:
+
+INFO:root:Stats for Agent blackA
+
+INFO:root:
+
+INFO:root:Stats for Agent blackB
+
+INFO:root:
+
+INFO:root:Nathaniel running | Pypy v7.2.0
+INFO:root:random seed is 1576474460
+INFO:root:Running multirunner_3
+INFO:root:Running play_16() communication=True, pocket_val = .25, base first
+INFO:root:play_14: team 1 players are PartneredAI, communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2;  team 2 players are PartneredAI, non-communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2
+INFO:root:move: whiteA moved g1f3
+INFO:root:Nathaniel running | Pypy v7.2.0
+INFO:root:random seed is 1576474473
+INFO:root:Running multirunner_3
+INFO:root:Running play_16() communication=True, pocket_val = .25, base first
+INFO:root:play_14: team 1 players are PartneredAI, communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2;  team 2 players are PartneredAI, non-communicating, using iterative deepening to max_depth 4/max_states 1000000, with eval class 2
+INFO:root:move: whiteA moved g1f3
+INFO:root:move: whiteB moved b1c3
+INFO:root:move: blackA moved e7e6
+INFO:root:move: blackB moved c7c6
+INFO:root:move: whiteA moved d2d4
+INFO:root:move: whiteB moved g1f3
+INFO:root:move: blackA moved b8c6
+INFO:root:move: blackB moved d8a5
+INFO:root:move: whiteA moved e2e4
+INFO:root:move: whiteB moved e2e4
+INFO:root:move: blackA moved g8f6
+INFO:root:move: blackB moved a5c5
+INFO:root:move: whiteA moved f1d3
+INFO:root:move: whiteB moved f1d3
+INFO:root:move: blackA moved f8d6
+INFO:root:move: blackB moved e7e6
+INFO:root:move: whiteA moved c1d2
+INFO:root:move: whiteB moved e1g1
+INFO:root:move: blackA moved d6b4
+INFO:root:move: blackB moved g8e7
+INFO:root:move: whiteA moved e1g1
+INFO:root:move: whiteB moved c3e2
+INFO:root:move: blackA moved b4d2
+INFO:root:move: blackB moved d7d6
+INFO:root:move: whiteA moved d1d2
+INFO:root:move: whiteB moved B@d4
+INFO:root:move: blackA moved h7h6

@@ -1,0 +1,445 @@
+INFO:root:Bryce's Computer Pypy v7.2.0
+INFO:root:random seed is 1575513245
+INFO:root:play_1: whiteA and blackB are PartneredAI, non-communicating, using iterative deepening to max_depth 2/max_states 1000000, with basic material evaluation vs whiteB and blackA that are random agents
+INFO:root:move: whiteA moved g1f3
+INFO:root:move: whiteB random moved e2e4
+INFO:root:move: blackA random moved e7e6
+INFO:root:move: blackB moved g8f6
+INFO:root:move: whiteA moved b1c3
+INFO:root:move: whiteB random moved d2d4
+INFO:root:move: blackA random moved g7g5
+INFO:root:move: blackB moved f6e4
+INFO:root:move: whiteA moved P@e5
+INFO:root:move: whiteB random moved b1c3
+INFO:root:move: blackA random moved d8f6
+INFO:root:move: blackB moved e4d6
+INFO:root:move: whiteA moved e5f6
+INFO:root:move: whiteB random moved c3b1
+INFO:root:move: blackA random moved a7a5
+INFO:root:move: blackB moved Q@a4
+INFO:root:move: whiteA moved f3g5
+INFO:root:move: whiteB random moved f1c4
+INFO:root:move: blackA random moved f8c5
+INFO:root:move: blackB moved d6c4
+INFO:root:move: whiteA moved B@b3
+INFO:root:move: whiteB random moved h2h3
+INFO:root:move: blackA random moved d7d5
+INFO:root:move: blackB moved P@e4
+INFO:root:move: whiteA moved b3a4
+INFO:root:move: whiteB random moved d1f3
+INFO:root:move: blackA random moved c7c6
+INFO:root:move: blackB moved e4f3
+INFO:root:move: whiteA moved Q@b1
+INFO:root:move: whiteB random moved b2b4
+INFO:root:move: blackA random moved c5a7
+INFO:root:move: blackB moved f3g2
+INFO:root:move: whiteA moved P@c7
+INFO:root:move: whiteB random moved b4b5
+INFO:root:move: blackA random moved h7h6
+INFO:root:move: blackB moved g2h1q
+INFO:root:move: whiteA moved R@g1
+INFO:root:move: whiteB random moved c2c3
+INFO:root:move: blackA random moved h6g5
+INFO:root:move: blackB moved h1g1
+INFO:root:move: whiteA moved N@d6
+INFO:root:move: whiteB random moved N@f1
+INFO:root:move: blackA random moved e8f8
+INFO:root:move: blackB moved a4b5
+INFO:root:move: whiteA moved c7b8q
+INFO:root:move: whiteB random moved c1e3
+INFO:root:move: blackA random moved h8h7
+INFO:root:move: blackB moved N@e4
+INFO:root:move: whiteA moved b8a8
+INFO:root:move: whiteB random moved d4d5
+INFO:root:move: blackA random moved h7h6
+INFO:root:move: blackB moved R@h1
+INFO:root:move: whiteA moved a8a7
+INFO:root:move: whiteB random moved e3h6
+INFO:root:move: blackA random moved g8e7
+INFO:root:move: blackB moved g1f1
+INFO:root:None
+INFO:root:
+
+INFO:root:Bryce's Computer Pypy v7.2.0
+INFO:root:random seed is 1575513499
+INFO:root:play_1: whiteA and blackB are PartneredAI, non-communicating, using iterative deepening to max_depth 2/max_states 1000000, with basic material evaluation vs whiteB and blackA that are random agents
+INFO:root:move: whiteA moved g1f3
+INFO:root:move: whiteB random moved f2f3
+INFO:root:move: blackA random moved c7c5
+INFO:root:move: blackB moved g8f6
+INFO:root:move: whiteA moved b1c3
+INFO:root:move: whiteB random moved b2b4
+INFO:root:move: blackA random moved d7d6
+INFO:root:move: blackB moved b8c6
+INFO:root:move: whiteA moved e2e4
+INFO:root:move: whiteB random moved h2h3
+INFO:root:move: blackA random moved c8d7
+INFO:root:move: blackB moved c6b4
+INFO:root:move: whiteA moved P@d5
+INFO:root:move: whiteB random moved d2d4
+INFO:root:move: blackA random moved d7h3
+INFO:root:move: blackB moved d7d5
+INFO:root:move: whiteA moved g2h3
+INFO:root:move: whiteB random moved c1b2
+INFO:root:move: blackA random moved b7b6
+INFO:root:move: blackB moved B@e3
+INFO:root:move: whiteA moved f1c4
+INFO:root:move: whiteB random moved b2a3
+INFO:root:move: blackA random moved e7e5
+INFO:root:move: blackB moved e3g1
+INFO:root:move: whiteA moved N@d3
+INFO:root:move: whiteB random moved h1h2
+INFO:root:move: blackA random moved g8h6
+INFO:root:move: blackB moved g1h2
+INFO:root:move: whiteA moved R@b1
+INFO:root:move: whiteB random moved c2c3
+INFO:root:move: blackA random moved b8a6
+INFO:root:move: blackB moved h2g3
+INFO:root:move: whiteA moved c4a6
+INFO:root:move: whiteB random moved e1d2
+INFO:root:move: blackA random moved h8g8
+INFO:root:move: blackB moved N@c4
+INFO:root:move: whiteA moved e1g1
+INFO:root:move: whiteB random moved d2c1
+INFO:root:move: blackA random moved h6g4
+INFO:root:move: blackB moved g3f4
+INFO:root:move: whiteA moved h3g4
+INFO:root:move: whiteB random moved d1d2
+INFO:root:move: blackA random moved h7h6
+INFO:root:move: blackB moved f4d2
+INFO:root:move: whiteA moved Q@e1
+INFO:root:move: whiteB random moved c1d1
+INFO:root:move: blackA random moved a8b8
+INFO:root:move: blackB moved N@f2
+INFO:root:None
+INFO:root:
+
+INFO:root:
+INFO:root:
+
+INFO:root:
+INFO:root:
+
+INFO:root:None
+INFO:root:
+
+INFO:root:Bryce's Computer Pypy v7.2.0
+INFO:root:random seed is 1575513527
+INFO:root:play_1: whiteA and blackB are PartneredAI, non-communicating, using iterative deepening to max_depth 2/max_states 1000000, with basic material evaluation vs whiteB and blackA that are random agents
+INFO:root:move: whiteA moved g1f3
+INFO:root:move: whiteB random moved g1h3
+INFO:root:move: blackA random moved g7g5
+INFO:root:move: blackB moved g8f6
+INFO:root:move: whiteA moved f3g5
+INFO:root:move: whiteB random moved b1c3
+INFO:root:move: blackA random moved e7e5
+INFO:root:move: blackB moved P@d4
+INFO:root:move: whiteA moved g5e4
+INFO:root:move: whiteB random moved c3a4
+INFO:root:move: blackA random moved b8c6
+INFO:root:move: blackB moved b8c6
+INFO:root:move: whiteA moved b1c3
+INFO:root:move: whiteB random moved f2f4
+INFO:root:move: blackA random moved c6d4
+INFO:root:move: blackB moved d7d5
+INFO:root:move: whiteA moved e2e3
+INFO:root:move: whiteB random moved h1g1
+INFO:root:move: blackA random moved a8b8
+INFO:root:move: blackB moved c8e6
+INFO:root:move: whiteA moved e3d4
+INFO:root:move: whiteB random moved a4c5
+INFO:root:move: blackA random moved d8f6
+INFO:root:move: blackB moved N@d3
+INFO:root:move: whiteA moved e4f6
+INFO:root:move: whiteB random moved c5d3
+INFO:root:move: blackA random moved g8f6
+INFO:root:move: blackB moved Q@a4
+INFO:root:move: whiteA moved d4e5
+INFO:root:move: whiteB random moved N@c3
+INFO:root:move: blackA random moved N@a4
+INFO:root:move: blackB moved d4c3
+INFO:root:move: whiteA moved c3a4
+INFO:root:move: whiteB random moved g2g4
+INFO:root:move: blackA random moved f6g4
+INFO:root:move: blackB moved N@d4
+INFO:root:move: whiteA moved d1g4
+INFO:root:move: whiteB random moved g4g5
+INFO:root:move: blackA random moved h7h5
+INFO:root:move: blackB moved N@e4
+INFO:root:move: whiteA moved N@f6
+INFO:root:move: whiteB random moved g1g2
+INFO:root:move: blackA random moved e8d8
+INFO:root:move: blackB moved P@f2
+INFO:root:move: whiteA moved g4g5
+INFO:root:move: whiteB random moved h3f2
+INFO:root:move: blackA random moved P@f5
+INFO:root:move: blackB moved c3d2
+INFO:root:move: whiteA moved P@d5
+INFO:root:move: whiteB random moved d1d2
+INFO:root:move: blackA random moved P@c6
+INFO:root:move: blackB moved e4d2
+INFO:root:move: whiteA moved Q@b1
+INFO:root:move: whiteB random moved f2h1
+INFO:root:move: blackA random moved b7b5
+INFO:root:move: blackB moved d2f1
+INFO:root:move: whiteA moved f6h5
+INFO:root:move: whiteB random moved h2h4
+INFO:root:move: blackA random moved d8e8
+INFO:root:move: blackB moved P@d2
+INFO:root:move: whiteA moved B@b3
+INFO:root:move: whiteB random moved e1f2
+INFO:root:move: blackA random moved f8e7
+INFO:root:move: blackB moved d2d1q
+INFO:root:move: whiteA moved h5g7
+INFO:root:move: whiteB random moved c1e3
+INFO:root:move: blackA random moved e8f8
+INFO:root:move: blackB moved d1a1
+INFO:root:move: whiteA moved R@f6
+INFO:root:move: whiteB random moved g5f6
+INFO:root:move: blackA random moved h8g8
+INFO:root:move: blackB moved f1e3
+INFO:root:move: whiteA moved B@b4
+INFO:root:move: whiteB random moved f2g3
+INFO:root:move: blackA random moved b8b6
+INFO:root:move: blackB moved a1h1
+INFO:root:move: whiteA moved a4b6
+INFO:root:move: whiteB random moved d3e1
+INFO:root:move: blackA random moved N@b8
+INFO:root:move: blackB moved R@h3
+INFO:root:move: whiteA moved N@g6
+INFO:root:move: whiteB random moved g3f2
+INFO:root:move: blackA random moved f8g7
+INFO:root:move: blackB moved e3d1
+INFO:root:None
+INFO:root:
+
+INFO:root:
+INFO:root:
+
+INFO:root:
+INFO:root:
+
+INFO:root:None
+INFO:root:
+
+INFO:root:Bryce's Computer Pypy v7.2.0
+INFO:root:random seed is 1575513533
+INFO:root:play_1: whiteA and blackB are PartneredAI, non-communicating, using iterative deepening to max_depth 2/max_states 1000000, with basic material evaluation vs whiteB and blackA that are random agents
+INFO:root:move: whiteA moved g1f3
+INFO:root:move: whiteB random moved a2a3
+INFO:root:move: blackA random moved c7c5
+INFO:root:move: blackB moved g8f6
+INFO:root:move: whiteA moved b1c3
+INFO:root:move: whiteB random moved d2d4
+INFO:root:move: blackA random moved d8a5
+INFO:root:move: blackB moved b8c6
+INFO:root:move: whiteA moved c3d5
+INFO:root:move: whiteB random moved c1g5
+INFO:root:move: blackA random moved h7h6
+INFO:root:move: blackB moved f6d5
+INFO:root:move: whiteA moved e2e4
+INFO:root:move: whiteB random moved g5e7
+INFO:root:move: blackA random moved P@b6
+INFO:root:move: blackB moved f8e7
+INFO:root:move: whiteA moved B@b3
+INFO:root:move: whiteB random moved b2b4
+INFO:root:move: blackA random moved a5a2
+INFO:root:move: blackB moved e8g8
+INFO:root:move: whiteA moved a1a2
+INFO:root:move: whiteB random moved P@h4
+INFO:root:move: blackA random moved b6b5
+INFO:root:move: blackB moved Q@b2
+INFO:root:move: whiteA moved f1b5
+INFO:root:move: whiteB random moved d1c1
+INFO:root:move: blackA random moved e7e6
+INFO:root:move: blackB moved b2c1
+INFO:root:None
+INFO:root:
+
+INFO:root:
+INFO:root:
+
+INFO:root:
+INFO:root:
+
+INFO:root:None
+INFO:root:
+
+INFO:root:Bryce's Computer Pypy v7.2.0
+INFO:root:random seed is 1575513536
+INFO:root:play_1: whiteA and blackB are PartneredAI, non-communicating, using iterative deepening to max_depth 2/max_states 1000000, with basic material evaluation vs whiteB and blackA that are random agents
+INFO:root:move: whiteA moved g1f3
+INFO:root:move: whiteB random moved f2f3
+INFO:root:move: blackA random moved g7g6
+INFO:root:move: blackB moved g8f6
+INFO:root:move: whiteA moved b1c3
+INFO:root:move: whiteB random moved c2c3
+INFO:root:move: blackA random moved c7c6
+INFO:root:move: blackB moved b8c6
+INFO:root:move: whiteA moved e2e4
+INFO:root:move: whiteB random moved g2g3
+INFO:root:move: blackA random moved g8f6
+INFO:root:move: blackB moved e7e5
+INFO:root:move: whiteA moved e4e5
+INFO:root:move: whiteB random moved b1a3
+INFO:root:move: blackA random moved c6c5
+INFO:root:move: blackB moved f8d6
+INFO:root:move: whiteA moved e5f6
+INFO:root:move: whiteB random moved a3b5
+INFO:root:move: blackA random moved c5c4
+INFO:root:move: blackB moved N@d5
+INFO:root:move: whiteA moved f1c4
+INFO:root:move: whiteB random moved b5d4
+INFO:root:move: blackA random moved h7h5
+INFO:root:move: blackB moved e5d4
+INFO:root:move: whiteA moved N@d4
+INFO:root:move: whiteB random moved f3f4
+INFO:root:move: blackA random moved d7d6
+INFO:root:move: blackB moved P@c2
+INFO:root:move: whiteA moved d1e2
+INFO:root:move: whiteB random moved d2d3
+INFO:root:move: blackA random moved d6d5
+INFO:root:move: blackB moved c2d1q
+INFO:root:move: whiteA moved Q@a4
+INFO:root:move: whiteB random moved e1f2
+INFO:root:move: blackA random moved b8c6
+INFO:root:move: blackB moved f6g4
+INFO:root:move: whiteA moved c4d3
+INFO:root:move: whiteB random moved f2g2
+INFO:root:move: blackA random moved a7a5
+INFO:root:move: blackB moved d4c3
+INFO:root:move: whiteA moved P@c5
+INFO:root:move: whiteB random moved d3d4
+INFO:root:move: blackA random moved f8h6
+INFO:root:move: blackB moved c3c2
+INFO:root:move: whiteA moved d4c6
+INFO:root:move: whiteB random moved g1f3
+INFO:root:move: blackA random moved b7b6
+INFO:root:move: blackB moved N@e4
+INFO:root:move: whiteA moved c6d8
+INFO:root:move: whiteB random moved b2b3
+INFO:root:move: blackA random moved c8d7
+INFO:root:move: blackB moved Q@f2
+INFO:root:move: whiteA moved c5c6
+INFO:root:move: whiteB random moved g2h3
+INFO:root:move: blackA random moved d7c6
+INFO:root:move: blackB moved g4f6
+INFO:root:move: whiteA moved d8c6
+INFO:root:move: whiteB random moved h1g1
+INFO:root:move: blackA random moved h5h4
+INFO:root:move: blackB moved B@g4
+INFO:root:move: whiteA moved c6e7
+INFO:root:move: whiteB random moved h3h4
+INFO:root:move: blackA random moved b6b5
+INFO:root:move: blackB moved P@c3
+INFO:root:move: whiteA moved e7d5
+INFO:root:move: whiteB random moved a2a3
+INFO:root:move: blackA random moved e8f8
+INFO:root:move: blackB moved P@a6
+INFO:root:move: whiteA moved a4b5
+INFO:root:move: whiteB random moved P@d2
+INFO:root:move: blackA random moved a8e8
+INFO:root:move: blackB moved P@a2
+INFO:root:move: whiteA moved b5c5
+INFO:root:move: whiteB random moved f3e5
+INFO:root:move: blackA random moved f8g8
+INFO:root:move: blackB moved f2g1
+INFO:root:move: whiteA moved e2e8
+INFO:root:move: whiteB random moved e5d3
+INFO:root:move: blackA random moved g8h7
+INFO:root:move: blackB moved R@h5
+INFO:root:None
+INFO:root:
+
+INFO:root:
+INFO:root:
+
+INFO:root:
+INFO:root:
+
+INFO:root:None
+INFO:root:
+
+INFO:root:Bryce's Computer Pypy v7.2.0
+INFO:root:random seed is 1575513542
+INFO:root:play_1: whiteA and blackB are PartneredAI, non-communicating, using iterative deepening to max_depth 2/max_states 1000000, with basic material evaluation vs whiteB and blackA that are random agents
+INFO:root:move: whiteA moved g1f3
+INFO:root:move: whiteB random moved c2c4
+INFO:root:move: blackA random moved d7d6
+INFO:root:move: blackB moved g8f6
+INFO:root:move: whiteA moved b1c3
+INFO:root:move: whiteB random moved d1c2
+INFO:root:move: blackA random moved c8h3
+INFO:root:move: blackB moved h7h6
+INFO:root:move: whiteA moved g2h3
+INFO:root:move: whiteB random moved b1c3
+INFO:root:move: blackA random moved g8f6
+INFO:root:move: blackB moved B@d4
+INFO:root:move: whiteA moved d2d4
+INFO:root:move: whiteB random moved c3e4
+INFO:root:move: blackA random moved b7b5
+INFO:root:move: blackB moved f6g4
+INFO:root:move: whiteA moved c3b5
+INFO:root:move: whiteB random moved g2g3
+INFO:root:move: blackA random moved f6g4
+INFO:root:move: blackB moved P@e5
+INFO:root:move: whiteA moved h3g4
+INFO:root:move: whiteB random moved g1f3
+INFO:root:move: blackA random moved d6d5
+INFO:root:move: blackB moved N@g2
+INFO:root:move: whiteA moved c1f4
+INFO:root:move: whiteB random moved e1d1
+INFO:root:move: blackA random moved d8d7
+INFO:root:move: blackB moved g4f2
+INFO:root:move: whiteA moved P@c6
+INFO:root:move: whiteB random moved e4f2
+INFO:root:move: blackA random moved h7h5
+INFO:root:move: blackB moved d4f2
+INFO:root:move: whiteA moved c6d7
+INFO:root:move: whiteB random moved f3e1
+INFO:root:move: blackA random moved b8d7
+INFO:root:move: blackB moved Q@h3
+INFO:root:move: whiteA moved b5c7
+INFO:root:move: whiteB random moved c2g6
+INFO:root:move: blackA random moved e8d8
+INFO:root:move: blackB moved f7g6
+INFO:root:move: whiteA moved Q@b1
+INFO:root:move: whiteB random moved P@g4
+INFO:root:move: blackA random moved d7b8
+INFO:root:move: blackB moved f2e1
+INFO:root:move: whiteA moved N@b7
+INFO:root:move: whiteB random moved g4g5
+INFO:root:move: blackA random moved d8d7
+INFO:root:move: blackB moved P@c2
+INFO:root:move: whiteA moved N@c5
+INFO:root:move: whiteB random moved d1c2
+INFO:root:move: blackA random moved d7c6
+INFO:root:move: blackB moved h3f5
+INFO:root:move: whiteA moved c7a8
+INFO:root:move: whiteB random moved c2d1
+INFO:root:move: blackA random moved P@h4
+INFO:root:move: blackB moved R@c2
+INFO:root:move: whiteA moved f3e5
+INFO:root:move: whiteB random moved g3g4
+INFO:root:move: blackA random moved c6b5
+INFO:root:move: blackB moved c2c1
+INFO:root:move: whiteA moved B@a4
+INFO:root:move: whiteB random moved a1c1
+INFO:root:move: blackA random moved b5b4
+INFO:root:move: blackB moved f5g5
+INFO:root:move: whiteA moved e5d3
+INFO:root:move: whiteB random moved h1g1
+INFO:root:move: blackA random moved b4c4
+INFO:root:move: blackB moved g5d2
+INFO:root:None
+INFO:root:
+
+INFO:root:
+INFO:root:
+
+INFO:root:
+INFO:root:
+
+INFO:root:None
+INFO:root:
+

@@ -1,0 +1,13 @@
+INFO:root:Bryce's Computer | Pypy v7.2.0
+INFO:root:random seed is 1575756777
+INFO:root:play_1: whiteA and blackB are PartneredAI, non-communicating, using iterative deepening to max_depth 5/max_states 1000000, with basic material evaluation vs whiteB and blackA that are random agents
+INFO:root:Bryce's Computer | Pypy v7.2.0
+INFO:root:random seed is 1575756777
+INFO:root:play_1: whiteA and blackB are PartneredAI, non-communicating, using iterative deepening to max_depth 5/max_states 1000000, with basic material evaluation vs whiteB and blackA that are random agents
+INFO:root:Bryce's Computer | Pypy v7.2.0
+INFO:root:random seed is 1575756777
+INFO:root:play_1: whiteA and blackB are PartneredAI, non-communicating, using iterative deepening to max_depth 5/max_states 1000000, with basic material evaluation vs whiteB and blackA that are random agents
+INFO:root:move: whiteA moved c2c3
+INFO:root:move: whiteB random moved b1a3
+INFO:root:move: blackA random moved e7e6
+INFO:root:move: blackB moved e7e6

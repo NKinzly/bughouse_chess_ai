@@ -1,0 +1,82 @@
+g1h3
+e7e5
+h3f4
+e5f4
+------
+g1h3
+g7g5
+h3g5
+P@a3
+
+
+Okay, so, I can't 'remove' upon a drop. Because what matters is captures.
+Also, for some reason, the pieces are piling up within the pop function of the baseboard
+
+1078a0bd0
+
+
+ File "/Users/bryce/CS4701/bughouse-chess/pychess/chess/__init__.py", line 3497, in __repr__
+    builder.append(self.board.san(move))
+  File "/Users/bryce/CS4701/bughouse-chess/pychess/chess/__init__.py", line 2610, in san
+    return self._algebraic(move)
+  File "/Users/bryce/CS4701/bughouse-chess/pychess/chess/__init__.py", line 2625, in _algebraic
+    self.push(move)
+  File "/Users/bryce/CS4701/bughouse-chess/pychess/chess/variant.py", line 1085, in push
+    super().push(move)
+  File "/Users/bryce/CS4701/bughouse-chess/pychess/chess/__init__.py", line 2084, in push
+    self._push_no_capture()
+  File "/Users/bryce/CS4701/bughouse-chess/pychess/chess/variant.py", line 1122, in _push_no_capture
+    self.pushed_pieces.push(None)
+  File "/Users/bryce/CS4701/bughouse-chess/pychess/chess/variant.py", line 36, in push
+
+
+
+
+
+New issue
+
+Traceback (most recent call last):
+  File "pychess/chess/runner.py", line 254, in <module>
+    s.play_humans()
+  File "pychess/chess/runner.py", line 94, in play_humans
+    move = p.choose_move()
+  File "/Users/bryce/CS4701/bughouse-chess/pychess/chess/ai.py", line 344, in choose_move
+    _, best_move = self.alphabeta_minimax(super_boardc, self.board_id, 0, cutoff)
+  File "/Users/bryce/CS4701/bughouse-chess/pychess/chess/ai.py", line 213, in alphabeta_minimax
+    new_val, _ = self.alphabeta_maximin(board, board_id, depth + 1, cutoff, a, b)
+  File "/Users/bryce/CS4701/bughouse-chess/pychess/chess/ai.py", line 277, in alphabeta_maximin
+    new_val, _ = self.alphabeta_minimax(board, board_id, depth + 1, cutoff, a, b)
+  File "/Users/bryce/CS4701/bughouse-chess/pychess/chess/ai.py", line 214, in alphabeta_minimax
+    board.pop() # then pop
+  File "/Users/bryce/CS4701/bughouse-chess/pychess/chess/variant.py", line 1577, in pop
+    return self.boardA.pop(pocket_popping=True)
+  File "/Users/bryce/CS4701/bughouse-chess/pychess/chess/variant.py", line 1035, in pop
+    self.turn)  # we use self.turn
+  File "/Users/bryce/CS4701/bughouse-chess/pychess/chess/variant.py", line 1614, in rm_from_pocket
+    self.boardB.rm_from_pocket(piece_type, color)
+  File "/Users/bryce/CS4701/bughouse-chess/pychess/chess/variant.py", line 1071, in rm_from_pocket
+    self.pockets[color].remove(piece_type)
+  File "/Users/bryce/CS4701/bughouse-chess/pychess/chess/variant.py", line 915, in remove
+    raise ValueError("can't have less than 0 pieces in a pocket")
+ValueError: can't have less than 0 pieces in a pocket
+
+after the following turns:
+INFO:root:move: whiteA moved g1h3
+INFO:root:move: whiteB bryce moved b2b4
+INFO:root:move: blackA caroline moved d7d5
+INFO:root:move: blackB moved b8c6
+INFO:root:move: whiteA moved h3g5
+INFO:root:move: whiteB bryce moved b1c3
+INFO:root:move: blackA caroline moved c7c5
+INFO:root:move: blackB moved c6b4
+
+non-deterministic
+g1h3
+b2b4
+d7d5
+g8h6 #
+h3g5
+b1c3
+c7c5
+h8g8 #
+g5h7 !

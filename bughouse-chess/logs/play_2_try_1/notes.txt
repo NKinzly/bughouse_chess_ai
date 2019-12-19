@@ -1,0 +1,3 @@
+Looking at how the AIs played, the black players (both of them) simply moved knight from g8 to h6, and then oscillate their rook between g8 and h8, with no regard for any other pieces.
+
+Other than that, it seems that both white players are trying to play the game. Whether they are doing so in a smart way, I'm not sure of quite yet.

@@ -1,0 +1,302 @@
+INFO:root:Bryce's Computer | Pypy v7.2.0
+INFO:root:random seed is 1575756777
+INFO:root:play_1: whiteA and blackB are PartneredAI, non-communicating, using iterative deepening to max_depth 5/max_states 1000000, with basic material evaluation vs whiteB and blackA that are random agents
+INFO:root:move: whiteA moved c2c3
+INFO:root:move: whiteB random moved g2g4
+INFO:root:move: blackA random moved a7a5
+INFO:root:move: blackB moved f7f6
+INFO:root:move: whiteA moved d2d4
+INFO:root:move: whiteB random moved h2h4
+INFO:root:move: blackA random moved c7c5
+INFO:root:Bryce's Computer | Pypy v7.2.0
+INFO:root:random seed is 1575756777
+INFO:root:play_1: whiteA and blackB are PartneredAI, non-communicating, using iterative deepening to max_depth 5/max_states 1000000, with basic material evaluation vs whiteB and blackA that are random agents
+INFO:root:move: whiteA moved c2c3
+INFO:root:move: whiteB random moved g2g4
+INFO:root:move: blackA random moved a7a5
+INFO:root:move: blackB moved f7f6
+INFO:root:move: whiteA moved d2d4
+INFO:root:move: whiteB random moved h2h4
+INFO:root:move: blackA random moved c7c5
+INFO:root:move: blackB moved e7e5
+INFO:root:move: whiteA moved d4c5
+INFO:root:move: whiteB random moved g1h3
+INFO:root:move: blackA random moved d8c7
+INFO:root:move: blackB moved f6f5
+INFO:root:Stats for Agent whiteA
+Move number 1 
+Total States for game: 22960
+Max branching factor for game: 7.310623502397983
+Average states per move for game: 22960.0
+Average eval function execution time for game: 3.094574281875001e-05
+Eval function execution count: 20882
+States for current turn: 22960
+Current turn branching factor: 7.310623502397983
+Current turn eval function time: 0.6462090015411377
+Current turn eval function count: 20882
+Current turn eval function average time: 3.094574281875001e-05
+
+Move number 2 
+Total States for game: 71894
+Max branching factor for game: 8.524663393484197
+Average states per move for game: 35947.0
+Average eval function execution time for game: 2.4957121413466783e-05
+Eval function execution count: 65900
+States for current turn: 48934
+Current turn branching factor: 8.524663393484197
+Current turn eval function time: 0.9984652996063232
+Current turn eval function count: 45018
+Current turn eval function average time: 2.2179246070601164e-05
+
+Move number 3 
+Total States for game: 226077
+Max branching factor for game: 10.747543821260464
+Average states per move for game: 75359.0
+Average eval function execution time for game: 2.278381772578739e-05
+Eval function execution count: 209299
+States for current turn: 154183
+Current turn branching factor: 10.747543821260464
+Current turn eval function time: 3.1239559650421143
+Current turn eval function count: 143399
+Current turn eval function average time: 2.17850610188503e-05
+
+
+INFO:root:
+
+INFO:root:
+INFO:root:
+
+INFO:root:
+INFO:root:
+
+INFO:root:Stats for Agent blackB
+Move number 1 
+Total States for game: 61129
+Max branching factor for game: 8.90074595954682
+Average states per move for game: 61129.0
+Average eval function execution time for game: 2.3187935292575688e-05
+Eval function execution count: 55864
+States for current turn: 61129
+Current turn branching factor: 8.90074595954682
+Current turn eval function time: 1.2953708171844482
+Current turn eval function count: 55864
+Current turn eval function average time: 2.3187935292575688e-05
+
+Move number 2 
+Total States for game: 149763
+Max branching factor for game: 9.584875658536477
+Average states per move for game: 74881.5
+Average eval function execution time for game: 2.224722827718886e-05
+Eval function execution count: 136761
+States for current turn: 88634
+Current turn branching factor: 9.584875658536477
+Current turn eval function time: 1.7471823692321777
+Current turn eval function count: 80897
+Current turn eval function average time: 2.159761634216569e-05
+
+Move number 3 
+Total States for game: 327402
+Max branching factor for game: 11.085578320019312
+Average states per move for game: 109134.0
+Average eval function execution time for game: 2.16907575840408e-05
+Eval function execution count: 304175
+States for current turn: 177639
+Current turn branching factor: 11.085578320019312
+Current turn eval function time: 3.5552330017089844
+Current turn eval function count: 167414
+Current turn eval function average time: 2.123617500154697e-05
+
+
+INFO:root:
+
+INFO:root:Bryce's Computer | Pypy v7.2.0
+INFO:root:random seed is 1575756777
+INFO:root:play_1: whiteA and blackB are PartneredAI, non-communicating, using iterative deepening to max_depth 5/max_states 1000000, with basic material evaluation vs whiteB and blackA that are random agents
+INFO:root:move: whiteA moved c2c3
+INFO:root:move: whiteB random moved g2g4
+INFO:root:move: blackA random moved a7a5
+INFO:root:move: blackB moved f7f6
+INFO:root:move: whiteA moved d2d4
+INFO:root:move: whiteB random moved h2h4
+INFO:root:move: blackA random moved c7c5
+INFO:root:move: blackB moved e7e5
+INFO:root:move: whiteA moved d4c5
+INFO:root:move: whiteB random moved g1h3
+INFO:root:move: blackA random moved d8c7
+INFO:root:move: blackB moved f6f5
+INFO:root:Bryce's Computer | Pypy v7.2.0
+INFO:root:random seed is 1575756777
+INFO:root:play_1: whiteA and blackB are PartneredAI, non-communicating, using iterative deepening to max_depth 5/max_states 1000000, with basic material evaluation vs whiteB and blackA that are random agents
+INFO:root:move: whiteA moved c2c3
+INFO:root:move: whiteB random moved g2g4
+INFO:root:move: blackA random moved a7a5
+INFO:root:move: blackB moved f7f6
+INFO:root:move: whiteA moved d2d4
+INFO:root:move: whiteB random moved h2h4
+INFO:root:move: blackA random moved c7c5
+INFO:root:move: blackB moved e7e5
+INFO:root:move: whiteA moved d4c5
+INFO:root:move: whiteB random moved g1h3
+INFO:root:move: blackA random moved d8c7
+INFO:root:move: blackB moved f6f5
+INFO:root:Stats for Agent whiteA
+Move number 1 
+Total States for game: 22960
+Max branching factor for game: 7.310623502397983
+Average states per move for game: 22960.0
+Average eval function execution time for game: 4.48332197329811e-05
+Eval function execution count: 20882
+States for current turn: 22960
+Current turn branching factor: 7.310623502397983
+Current turn eval function time: 0.9362072944641113
+Current turn eval function count: 20882
+Current turn eval function average time: 4.48332197329811e-05
+
+Move number 2 
+Total States for game: 71894
+Max branching factor for game: 8.524663393484197
+Average states per move for game: 35947.0
+Average eval function execution time for game: 3.0835517802260174e-05
+Eval function execution count: 65900
+States for current turn: 48934
+Current turn branching factor: 8.524663393484197
+Current turn eval function time: 1.095853328704834
+Current turn eval function count: 45018
+Current turn eval function average time: 2.4342559169772847e-05
+
+Move number 3 
+Total States for game: 226077
+Max branching factor for game: 10.747543821260464
+Average states per move for game: 75359.0
+Average eval function execution time for game: 2.5054201103470974e-05
+Eval function execution count: 209299
+States for current turn: 154183
+Current turn branching factor: 10.747543821260464
+Current turn eval function time: 3.211758613586426
+Current turn eval function count: 143399
+Current turn eval function average time: 2.2397357119550524e-05
+
+
+INFO:root:
+
+INFO:root:
+INFO:root:
+
+INFO:root:
+INFO:root:
+
+INFO:root:Stats for Agent blackB
+Move number 1 
+Total States for game: 61129
+Max branching factor for game: 8.90074595954682
+Average states per move for game: 61129.0
+Average eval function execution time for game: 2.6115331679825864e-05
+Eval function execution count: 55864
+States for current turn: 61129
+Current turn branching factor: 8.90074595954682
+Current turn eval function time: 1.458906888961792
+Current turn eval function count: 55864
+Current turn eval function average time: 2.6115331679825864e-05
+
+Move number 2 
+Total States for game: 149763
+Max branching factor for game: 9.584875658536477
+Average states per move for game: 74881.5
+Average eval function execution time for game: 2.414715384121849e-05
+Eval function execution count: 136761
+States for current turn: 88634
+Current turn branching factor: 9.584875658536477
+Current turn eval function time: 1.8434820175170898
+Current turn eval function count: 80897
+Current turn eval function average time: 2.2788014605202785e-05
+
+Move number 3 
+Total States for game: 327402
+Max branching factor for game: 11.085578320019312
+Average states per move for game: 109134.0
+Average eval function execution time for game: 2.3091359254886104e-05
+Eval function execution count: 304175
+States for current turn: 177639
+Current turn branching factor: 11.085578320019312
+Current turn eval function time: 3.7214252948760986
+Current turn eval function count: 167414
+Current turn eval function average time: 2.2228877482624503e-05
+
+
+INFO:root:
+
+INFO:root:Bryce's Computer | Pypy v7.2.0
+INFO:root:random seed is 1575756777
+INFO:root:play_1: whiteA and blackB are PartneredAI, non-communicating, using iterative deepening to max_depth 5/max_states 1000000, with basic material evaluation vs whiteB and blackA that are random agents
+INFO:root:move: whiteA moved c2c3
+INFO:root:move: whiteB random moved g2g4
+INFO:root:move: blackA random moved a7a5
+INFO:root:move: blackB moved f7f6
+INFO:root:move: whiteA moved d2d4
+INFO:root:move: whiteB random moved h2h4
+INFO:root:move: blackA random moved c7c5
+INFO:root:Stats for Agent whiteA
+Move number 1 
+Total States for game: 22960
+Max branching factor for game: 7.310623502397983
+Average states per move for game: 22960.0
+Average eval function execution time for game: 3.955807451566578e-05
+Eval function execution count: 20882
+States for current turn: 22960
+Current turn branching factor: 7.310623502397983
+Current turn eval function time: 0.8260517120361328
+Current turn eval function count: 20882
+Current turn eval function average time: 3.955807451566578e-05
+
+Move number 2 
+Total States for game: 71894
+Max branching factor for game: 8.524663393484197
+Average states per move for game: 35947.0
+Average eval function execution time for game: 2.8068556228429306e-05
+Eval function execution count: 65900
+States for current turn: 48934
+Current turn branching factor: 8.524663393484197
+Current turn eval function time: 1.0236661434173584
+Current turn eval function count: 45018
+Current turn eval function average time: 2.2739040904024132e-05
+
+
+INFO:root:
+
+INFO:root:
+INFO:root:
+
+INFO:root:
+INFO:root:
+
+INFO:root:Stats for Agent blackB
+Move number 1 
+Total States for game: 61129
+Max branching factor for game: 8.90074595954682
+Average states per move for game: 61129.0
+Average eval function execution time for game: 2.2992809676140712e-05
+Eval function execution count: 55864
+States for current turn: 61129
+Current turn branching factor: 8.90074595954682
+Current turn eval function time: 1.2844703197479248
+Current turn eval function count: 55864
+Current turn eval function average time: 2.2992809676140712e-05
+
+
+INFO:root:
+
+INFO:root:Bryce's Computer | Pypy v7.2.0
+INFO:root:random seed is 1575756777
+INFO:root:play_1: whiteA and blackB are PartneredAI, non-communicating, using iterative deepening to max_depth 5/max_states 1000000, with basic material evaluation vs whiteB and blackA that are random agents
+INFO:root:move: whiteA moved c2c3
+INFO:root:move: whiteB random moved g2g4
+INFO:root:move: blackA random moved a7a5
+INFO:root:move: blackB moved f7f6
+INFO:root:move: whiteA moved d2d4
+INFO:root:move: whiteB random moved h2h4
+INFO:root:move: blackA random moved c7c5
+INFO:root:move: blackB moved e7e5
+INFO:root:move: whiteA moved d4c5
+INFO:root:move: whiteB random moved g1h3
+INFO:root:move: blackA random moved d8c7
+INFO:root:move: blackB moved f6f5

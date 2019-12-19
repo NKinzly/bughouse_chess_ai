@@ -1,0 +1,13 @@
+INFO:root:November 19; Bryce's computer; pypy 3.6
+INFO:root:random seed is 1574186057
+INFO:root:play_1: all players are PartneredAI, non-communicating, using iterative deepening to max_depth 6/max_states 1000000, with basic material evaluation
+INFO:root:move: whiteA moved e2e3
+INFO:root:move: whiteB moved e2e3
+INFO:root:move: blackA moved g8h6
+INFO:root:move: blackB moved g8h6
+INFO:root:move: whiteA moved d1f3
+INFO:root:move: whiteB moved d1f3
+INFO:root:move: blackA moved h8g8
+INFO:root:move: blackB moved h8g8
+INFO:root:move: whiteA moved f3f6
+INFO:root:move: whiteB moved f3f6

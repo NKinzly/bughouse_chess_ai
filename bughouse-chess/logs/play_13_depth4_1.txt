@@ -1,0 +1,1484 @@
+INFO:root:Running play_13()
+INFO:root:play_13: team 1 players are PartneredAI, communicating, using iterative deepening to max_depth 4/max_states 1000000, with basic plus position plus pocket value evaluation;  team 2 players are PartneredAI, communicating, using iterative deepening to max_depth 4/max_states 1000000, with basic plus position plus pocket value evaluation, and with piece drop next depth
+INFO:root:move: whiteA moved g1f3
+INFO:root:move: whiteB moved g1f3
+INFO:root:move: blackA moved f7f6
+INFO:root:move: blackB moved f7f6
+INFO:root:move: whiteA moved b1c3
+INFO:root:move: whiteB moved b1c3
+INFO:root:move: blackA moved c7c6
+INFO:root:move: blackB moved c7c6
+INFO:root:move: whiteA moved e2e4
+INFO:root:move: whiteB moved e2e4
+INFO:root:move: blackA moved d7d6
+INFO:root:move: blackB moved d7d6
+INFO:root:move: whiteA moved f1c4
+INFO:root:move: whiteB moved f1c4
+INFO:root:move: blackA moved c8g4
+INFO:root:move: blackB moved c8g4
+INFO:root:move: whiteA moved h2h3
+INFO:root:move: whiteB moved h2h3
+INFO:root:move: blackA moved g4d7
+INFO:root:move: blackB moved g4d7
+INFO:root:move: whiteA moved d2d4
+INFO:root:move: whiteB moved d2d4
+INFO:root:move: blackA moved e7e6
+INFO:root:move: blackB moved e7e6
+INFO:root:move: whiteA moved c1f4
+INFO:root:move: whiteB moved c1f4
+INFO:root:move: blackA moved f8e7
+INFO:root:move: blackB moved f8e7
+INFO:root:move: whiteA moved e1g1
+INFO:root:move: whiteB moved e1g1
+INFO:root:move: blackA moved g8h6
+INFO:root:move: blackB moved g8h6
+INFO:root:move: whiteA moved f4h6
+INFO:root:move: whiteB moved f4h6
+INFO:root:move: blackA moved N@b6
+INFO:root:move: blackB moved g7h6
+INFO:root:move: whiteA moved h6g7
+INFO:root:move: whiteB moved d1d2
+INFO:root:move: blackA moved e8f7
+INFO:root:move: blackB moved N@a5
+INFO:root:move: whiteA moved g7h8
+INFO:root:move: whiteB moved c4d3
+INFO:root:move: blackA moved b6c4
+INFO:root:move: blackB moved P@h2
+INFO:root:move: whiteA moved d1d3
+INFO:root:move: whiteB moved g1h2
+INFO:root:move: blackA moved P@h2
+INFO:root:move: blackB moved R@b4
+INFO:root:move: whiteA moved g1h2
+INFO:root:move: whiteB moved B@g3
+INFO:root:move: blackA moved d8h8
+INFO:root:move: blackB moved b4b2
+INFO:root:move: whiteA moved d3c4
+INFO:root:move: whiteB moved B@h5
+INFO:root:move: blackA moved d6d5
+INFO:root:move: blackB moved P@f7
+INFO:root:move: whiteA moved B@h5
+INFO:root:move: whiteB moved d2c1
+INFO:root:move: blackA moved f7f8
+INFO:root:move: blackB moved b2b6
+INFO:root:move: whiteA moved c4a4
+INFO:root:move: whiteB moved c3a4
+INFO:root:move: blackA moved d5e4
+INFO:root:move: blackB moved b6b4
+INFO:root:move: whiteA moved c3e4
+INFO:root:move: whiteB moved P@g7
+INFO:root:move: blackA moved e7d8
+INFO:root:move: blackB moved h8g8
+INFO:root:move: whiteA moved a4b4
+INFO:root:move: whiteB moved a4c5
+INFO:root:move: blackA moved f8g7
+INFO:root:move: blackB moved d6c5
+INFO:root:move: whiteA moved b4b7
+INFO:root:move: whiteB moved h5f7
+INFO:root:move: blackA moved P@e2
+INFO:root:move: blackB moved e8f7
+INFO:root:move: whiteA moved f1e1
+INFO:root:move: whiteB moved c1h6
+INFO:root:move: blackA moved P@d2
+INFO:root:move: blackB moved P@b2
+INFO:root:move: whiteA moved f3d2
+INFO:root:move: whiteB moved h6h5
+INFO:root:move: blackA moved d8c7
+INFO:root:move: blackB moved P@g6
+INFO:root:move: whiteA moved b7c7
+INFO:root:move: whiteB moved f3g5
+INFO:root:move: blackA moved a7a5
+INFO:root:move: blackB moved f6g5
+INFO:root:move: whiteA moved N@g4
+INFO:root:move: whiteB moved h5f3
+INFO:root:move: blackA moved h7h6
+INFO:root:move: blackB moved P@f4
+INFO:root:move: whiteA moved N@e8
+INFO:root:move: whiteB moved a1b1
+INFO:root:move: blackA moved h8e8
+INFO:root:move: blackB moved f7g7
+INFO:root:move: whiteA moved h5e8
+INFO:root:move: whiteB moved N@f5
+INFO:root:move: blackA moved e6e5
+INFO:root:move: blackB moved g6f5
+INFO:root:move: whiteA moved N@e6
+INFO:root:move: whiteB moved g3f4
+INFO:root:move: blackA moved g7h8
+INFO:root:move: blackB moved Q@a3
+INFO:root:move: whiteA moved B@g7
+INFO:root:move: whiteB moved f4e5
+INFO:root:move: blackA moved h8g8
+INFO:root:move: blackB moved B@f6
+INFO:root:move: whiteA moved g4h6
+INFO:root:move: whiteB moved e4f5
+INFO:root:move: blackA moved g8h7
+INFO:root:move: blackB moved N@d6
+INFO:root:move: whiteA moved e4f6
+INFO:root:Game over! A status:stalemate/checkmate, B status:False
+INFO:root:Stats for Agent whiteA
+Move number 1 
+Total States for game: 8686
+Max branching factor for game: 9.334456794220426
+Average states per move for game: 8686.0
+Average eval function execution time for game: 1.9838925533475566e-05
+Eval function execution count: 7592
+States for current turn: 8686
+Current turn branching factor: 9.334456794220426
+Current turn eval function time: 0.15061712265014648
+Current turn eval function count: 7592
+Current turn eval function average time: 1.9838925533475566e-05
+
+Move number 2 
+Total States for game: 22780
+Max branching factor for game: 10.554840963546672
+Average states per move for game: 11390.0
+Average eval function execution time for game: 1.8774363563483057e-05
+Eval function execution count: 20003
+States for current turn: 14094
+Current turn branching factor: 10.554840963546672
+Current turn eval function time: 0.22492647171020508
+Current turn eval function count: 12411
+Current turn eval function average time: 1.812315459755097e-05
+
+Move number 3 
+Total States for game: 60796
+Max branching factor for game: 13.63926565260633
+Average states per move for game: 20265.333333333332
+Average eval function execution time for game: 1.7627925799456604e-05
+Eval function execution count: 54610
+States for current turn: 38016
+Current turn branching factor: 13.63926565260633
+Current turn eval function time: 0.5871174335479736
+Current turn eval function count: 34607
+Current turn eval function average time: 1.6965279670239364e-05
+
+Move number 4 
+Total States for game: 105549
+Max branching factor for game: 14.130896913625282
+Average states per move for game: 26387.25
+Average eval function execution time for game: 1.814109185970795e-05
+Eval function execution count: 94483
+States for current turn: 44753
+Current turn branching factor: 14.130896913625282
+Current turn eval function time: 0.7513637542724609
+Current turn eval function count: 39873
+Current turn eval function average time: 1.8843923313331352e-05
+
+Move number 5 
+Total States for game: 157634
+Max branching factor for game: 14.845633401757581
+Average states per move for game: 31526.8
+Average eval function execution time for game: 1.7618590680668382e-05
+Eval function execution count: 143056
+States for current turn: 52085
+Current turn branching factor: 14.845633401757581
+Current turn eval function time: 0.8064203262329102
+Current turn eval function count: 48573
+Current turn eval function average time: 1.6602234291332843e-05
+
+Move number 6 
+Total States for game: 195699
+Max branching factor for game: 14.845633401757581
+Average states per move for game: 32616.5
+Average eval function execution time for game: 1.7166717910935392e-05
+Eval function execution count: 176282
+States for current turn: 38065
+Current turn branching factor: 13.501111227926843
+Current turn eval function time: 0.5057382583618164
+Current turn eval function count: 33226
+Current turn eval function average time: 1.5221159885686402e-05
+
+Move number 7 
+Total States for game: 319438
+Max branching factor for game: 18.21966855977674
+Average states per move for game: 45634.0
+Average eval function execution time for game: 1.6548482465013807e-05
+Eval function execution count: 286477
+States for current turn: 123739
+Current turn branching factor: 18.21966855977674
+Current turn eval function time: 1.714576244354248
+Current turn eval function count: 110195
+Current turn eval function average time: 1.5559474062836317e-05
+
+Move number 8 
+Total States for game: 435056
+Max branching factor for game: 18.21966855977674
+Average states per move for game: 54382.0
+Average eval function execution time for game: 1.610517324262245e-05
+Eval function execution count: 389378
+States for current turn: 115618
+Current turn branching factor: 17.910384064624015
+Current turn eval function time: 1.530240535736084
+Current turn eval function count: 102901
+Current turn eval function average time: 1.4870997713686785e-05
+
+Move number 9 
+Total States for game: 504690
+Max branching factor for game: 18.21966855977674
+Average states per move for game: 56076.666666666664
+Average eval function execution time for game: 1.616798063098403e-05
+Eval function execution count: 450743
+States for current turn: 69634
+Current turn branching factor: 15.739110506872775
+Current turn eval function time: 1.016603946685791
+Current turn eval function count: 61365
+Current turn eval function average time: 1.6566510986487265e-05
+
+Move number 10 
+Total States for game: 521852
+Max branching factor for game: 18.21966855977674
+Average states per move for game: 52185.2
+Average eval function execution time for game: 1.6258674190850478e-05
+Eval function execution count: 462300
+States for current turn: 17162
+Current turn branching factor: 10.368388896810153
+Current turn eval function time: 0.22878098487854004
+Current turn eval function count: 11557
+Current turn eval function average time: 1.9795879975645932e-05
+
+Move number 11 
+Total States for game: 543976
+Max branching factor for game: 18.21966855977674
+Average states per move for game: 49452.36363636364
+Average eval function execution time for game: 1.648185202019252e-05
+Eval function execution count: 478245
+States for current turn: 22124
+Current turn branching factor: 11.23714877813758
+Current turn eval function time: 0.3659782409667969
+Current turn eval function count: 15945
+Current turn eval function average time: 2.2952539414662707e-05
+
+Move number 12 
+Total States for game: 594622
+Max branching factor for game: 18.21966855977674
+Average states per move for game: 49551.833333333336
+Average eval function execution time for game: 1.6882493331436742e-05
+Eval function execution count: 520869
+States for current turn: 50646
+Current turn branching factor: 14.3685700892268
+Current turn eval function time: 0.9112040996551514
+Current turn eval function count: 42624
+Current turn eval function average time: 2.137772380947709e-05
+
+Move number 13 
+Total States for game: 605708
+Max branching factor for game: 18.21966855977674
+Average states per move for game: 46592.92307692308
+Average eval function execution time for game: 1.6956757270725715e-05
+Eval function execution count: 530630
+States for current turn: 11086
+Current turn branching factor: 9.93970689981647
+Current turn eval function time: 0.20419669151306152
+Current turn eval function count: 9761
+Current turn eval function average time: 2.091964875658862e-05
+
+Move number 14 
+Total States for game: 667130
+Max branching factor for game: 18.21966855977674
+Average states per move for game: 47652.142857142855
+Average eval function execution time for game: 1.7374054561405046e-05
+Eval function execution count: 580075
+States for current turn: 61422
+Current turn branching factor: 14.911818029717622
+Current turn eval function time: 1.0804905891418457
+Current turn eval function count: 49445
+Current turn eval function average time: 2.1852373124519075e-05
+
+Move number 15 
+Total States for game: 1688736
+Max branching factor for game: 31.22772412902435
+Average states per move for game: 112582.4
+Average eval function execution time for game: 1.903283457857129e-05
+Eval function execution count: 1531033
+States for current turn: 1021606
+Current turn branching factor: 31.22772412902435
+Current turn eval function time: 19.06164312362671
+Current turn eval function count: 950958
+Current turn eval function average time: 2.004467402727219e-05
+
+Move number 16 
+Total States for game: 1914126
+Max branching factor for game: 31.22772412902435
+Average states per move for game: 119632.875
+Average eval function execution time for game: 1.9260046203725774e-05
+Eval function execution count: 1737851
+States for current turn: 225390
+Current turn branching factor: 21.32539496897579
+Current turn eval function time: 4.3311927318573
+Current turn eval function count: 206818
+Current turn eval function average time: 2.0942049201990637e-05
+
+Move number 17 
+Total States for game: 1988560
+Max branching factor for game: 31.22772412902435
+Average states per move for game: 116974.11764705883
+Average eval function execution time for game: 1.9297571648277927e-05
+Eval function execution count: 1803036
+States for current turn: 74434
+Current turn branching factor: 15.978533497779118
+Current turn eval function time: 1.3231258392333984
+Current turn eval function count: 65185
+Current turn eval function average time: 2.0298010880316e-05
+
+Move number 18 
+Total States for game: 2016334
+Max branching factor for game: 31.22772412902435
+Average states per move for game: 112018.55555555556
+Average eval function execution time for game: 1.9324446077192596e-05
+Eval function execution count: 1823770
+States for current turn: 27774
+Current turn branching factor: 11.999710637681998
+Current turn eval function time: 0.4491286277770996
+Current turn eval function count: 20734
+Current turn eval function average time: 2.166145595529563e-05
+
+Move number 19 
+Total States for game: 2081108
+Max branching factor for game: 31.22772412902435
+Average states per move for game: 109532.0
+Average eval function execution time for game: 1.940624497924545e-05
+Eval function execution count: 1870571
+States for current turn: 64774
+Current turn branching factor: 14.70834415446928
+Current turn eval function time: 1.0574140548706055
+Current turn eval function count: 46801
+Current turn eval function average time: 2.2593834637520683e-05
+
+Move number 20 
+Total States for game: 2685869
+Max branching factor for game: 31.22772412902435
+Average states per move for game: 134293.45
+Average eval function execution time for game: 1.9930492965791876e-05
+Eval function execution count: 2419342
+States for current turn: 604761
+Current turn branching factor: 27.217472213254762
+Current turn eval function time: 11.917919635772705
+Current turn eval function count: 548771
+Current turn eval function average time: 2.1717473473949435e-05
+
+Move number 21 
+Total States for game: 2899430
+Max branching factor for game: 31.22772412902435
+Average states per move for game: 138068.09523809524
+Average eval function execution time for game: 2.0189679116636847e-05
+Eval function execution count: 2601476
+States for current turn: 213561
+Current turn branching factor: 20.658451095844516
+Current turn eval function time: 4.304286956787109
+Current turn eval function count: 182134
+Current turn eval function average time: 2.363252856022e-05
+
+Move number 22 
+Total States for game: 2931312
+Max branching factor for game: 31.22772412902435
+Average states per move for game: 133241.45454545456
+Average eval function execution time for game: 2.022686378276239e-05
+Eval function execution count: 2625863
+States for current turn: 31882
+Current turn branching factor: 12.496534559152702
+Current turn eval function time: 0.5900075435638428
+Current turn eval function count: 24387
+Current turn eval function average time: 2.4193527025211907e-05
+
+Move number 23 
+Total States for game: 3065609
+Max branching factor for game: 31.22772412902435
+Average states per move for game: 133287.34782608695
+Average eval function execution time for game: 2.0325465789870344e-05
+Eval function execution count: 2717841
+States for current turn: 134297
+Current turn branching factor: 17.414900219860414
+Current turn eval function time: 2.128411054611206
+Current turn eval function count: 91978
+Current turn eval function average time: 2.3140436350118573e-05
+
+Move number 24 
+Total States for game: 3237373
+Max branching factor for game: 31.22772412902435
+Average states per move for game: 134890.54166666666
+Average eval function execution time for game: 2.0400128627082538e-05
+Eval function execution count: 2842864
+States for current turn: 171764
+Current turn branching factor: 18.80388034446901
+Current turn eval function time: 2.7534070014953613
+Current turn eval function count: 125023
+Current turn eval function average time: 2.2023203742474276e-05
+
+Move number 25 
+Total States for game: 3289229
+Max branching factor for game: 31.22772412902435
+Average states per move for game: 131569.16
+Average eval function execution time for game: 2.042193305441991e-05
+Eval function execution count: 2876293
+States for current turn: 51856
+Current turn branching factor: 13.521685992520833
+Current turn eval function time: 0.7446718215942383
+Current turn eval function count: 33429
+Current turn eval function average time: 2.2276221890999977e-05
+
+Move number 26 
+Total States for game: 3393726
+Max branching factor for game: 31.22772412902435
+Average states per move for game: 130527.92307692308
+Average eval function execution time for game: 2.04702553131009e-05
+Eval function execution count: 2936395
+States for current turn: 104497
+Current turn branching factor: 15.657493173997306
+Current turn eval function time: 1.3692922592163086
+Current turn eval function count: 60102
+Current turn eval function average time: 2.2782806881905905e-05
+
+Move number 27 
+Total States for game: 3635447
+Max branching factor for game: 31.22772412902435
+Average states per move for game: 134646.1851851852
+Average eval function execution time for game: 2.056139211694806e-05
+Eval function execution count: 3108605
+States for current turn: 241721
+Current turn branching factor: 20.37110520608352
+Current turn eval function time: 3.8084909915924072
+Current turn eval function count: 172210
+Current turn eval function average time: 2.2115388140017462e-05
+
+Move number 28 
+Total States for game: 3661581
+Max branching factor for game: 31.22772412902435
+Average states per move for game: 130770.75
+Average eval function execution time for game: 2.057469684746124e-05
+Eval function execution count: 3127342
+States for current turn: 26134
+Current turn branching factor: 11.69970776802185
+Current turn eval function time: 0.4268672466278076
+Current turn eval function count: 18737
+Current turn eval function average time: 2.2782048707253437e-05
+
+Move number 29 
+Total States for game: 3689713
+Max branching factor for game: 31.22772412902435
+Average states per move for game: 127231.4827586207
+Average eval function execution time for game: 2.0630183765926806e-05
+Eval function execution count: 3148677
+States for current turn: 28132
+Current turn branching factor: 12.085737627464926
+Current turn eval function time: 0.6136715412139893
+Current turn eval function count: 21335
+Current turn eval function average time: 2.8763606337660618e-05
+
+
+INFO:root:
+
+INFO:root:Stats for Agent whiteB
+Move number 1 
+Total States for game: 8686
+Max branching factor for game: 9.334456794220426
+Average states per move for game: 8686.0
+Average eval function execution time for game: 1.8920266590580674e-05
+Eval function execution count: 7592
+States for current turn: 8686
+Current turn branching factor: 9.334456794220426
+Current turn eval function time: 0.14364266395568848
+Current turn eval function count: 7592
+Current turn eval function average time: 1.8920266590580674e-05
+
+Move number 2 
+Total States for game: 22780
+Max branching factor for game: 10.554840963546672
+Average states per move for game: 11390.0
+Average eval function execution time for game: 1.7358143139033296e-05
+Eval function execution count: 20003
+States for current turn: 14094
+Current turn branching factor: 10.554840963546672
+Current turn eval function time: 0.20357227325439453
+Current turn eval function count: 12411
+Current turn eval function average time: 1.6402568145547864e-05
+
+Move number 3 
+Total States for game: 60796
+Max branching factor for game: 13.63926565260633
+Average states per move for game: 20265.333333333332
+Average eval function execution time for game: 1.6400203275235226e-05
+Eval function execution count: 54610
+States for current turn: 38016
+Current turn branching factor: 13.63926565260633
+Current turn eval function time: 0.5484001636505127
+Current turn eval function count: 34607
+Current turn eval function average time: 1.584650977115938e-05
+
+Move number 4 
+Total States for game: 105549
+Max branching factor for game: 14.130896913625282
+Average states per move for game: 26387.25
+Average eval function execution time for game: 1.7069006910443502e-05
+Eval function execution count: 94483
+States for current turn: 44753
+Current turn branching factor: 14.130896913625282
+Current turn eval function time: 0.7171158790588379
+Current turn eval function count: 39873
+Current turn eval function average time: 1.7984999349405308e-05
+
+Move number 5 
+Total States for game: 157634
+Max branching factor for game: 14.845633401757581
+Average states per move for game: 31526.8
+Average eval function execution time for game: 1.6764211329340787e-05
+Eval function execution count: 143056
+States for current turn: 52085
+Current turn branching factor: 14.845633401757581
+Current turn eval function time: 0.7854900360107422
+Current turn eval function count: 48573
+Current turn eval function average time: 1.6171330492469937e-05
+
+Move number 6 
+Total States for game: 195699
+Max branching factor for game: 14.845633401757581
+Average states per move for game: 32616.5
+Average eval function execution time for game: 1.6444191219810972e-05
+Eval function execution count: 176282
+States for current turn: 38065
+Current turn branching factor: 13.501111227926843
+Current turn eval function time: 0.500593900680542
+Current turn eval function count: 33226
+Current turn eval function average time: 1.5066330604964245e-05
+
+Move number 7 
+Total States for game: 319438
+Max branching factor for game: 18.21966855977674
+Average states per move for game: 45634.0
+Average eval function execution time for game: 1.6079441762543687e-05
+Eval function execution count: 286477
+States for current turn: 123739
+Current turn branching factor: 18.21966855977674
+Current turn eval function time: 1.7075753211975098
+Current turn eval function count: 110195
+Current turn eval function average time: 1.5495941932006985e-05
+
+Move number 8 
+Total States for game: 435056
+Max branching factor for game: 18.21966855977674
+Average states per move for game: 54382.0
+Average eval function execution time for game: 1.5924455342043136e-05
+Eval function execution count: 389378
+States for current turn: 115618
+Current turn branching factor: 17.910384064624015
+Current turn eval function time: 1.5942423343658447
+Current turn eval function count: 102901
+Current turn eval function average time: 1.5492972219568757e-05
+
+Move number 9 
+Total States for game: 678975
+Max branching factor for game: 21.811379403380737
+Average states per move for game: 75441.66666666667
+Average eval function execution time for game: 1.6081315212296935e-05
+Eval function execution count: 615703
+States for current turn: 243919
+Current turn branching factor: 21.811379403380737
+Current turn eval function time: 3.700681447982788
+Current turn eval function count: 226325
+Current turn eval function average time: 1.6351182803414506e-05
+
+Move number 10 
+Total States for game: 1118420
+Max branching factor for game: 25.43882230296814
+Average states per move for game: 111842.0
+Average eval function execution time for game: 1.618921210240515e-05
+Eval function execution count: 1034485
+States for current turn: 439445
+Current turn branching factor: 25.43882230296814
+Current turn eval function time: 6.8461830615997314
+Current turn eval function count: 418782
+Current turn eval function average time: 1.6347844610321675e-05
+
+Move number 11 
+Total States for game: 1367490
+Max branching factor for game: 25.43882230296814
+Average states per move for game: 124317.27272727272
+Average eval function execution time for game: 1.6127886631565357e-05
+Eval function execution count: 1272964
+States for current turn: 249070
+Current turn branching factor: 22.098486759970772
+Current turn eval function time: 3.782721996307373
+Current turn eval function count: 238479
+Current turn eval function average time: 1.5861866228503863e-05
+
+Move number 12 
+Total States for game: 1515704
+Max branching factor for game: 25.43882230296814
+Average states per move for game: 126308.66666666667
+Average eval function execution time for game: 1.6088239445533922e-05
+Eval function execution count: 1414757
+States for current turn: 148214
+Current turn branching factor: 19.405002266867662
+Current turn eval function time: 2.2307302951812744
+Current turn eval function count: 141793
+Current turn eval function average time: 1.5732301983745845e-05
+
+Move number 13 
+Total States for game: 2239589
+Max branching factor for game: 28.66782634742724
+Average states per move for game: 172276.07692307694
+Average eval function execution time for game: 1.6204590330746996e-05
+Eval function execution count: 2090185
+States for current turn: 723885
+Current turn branching factor: 28.66782634742724
+Current turn eval function time: 11.109642267227173
+Current turn eval function count: 675428
+Current turn eval function average time: 1.6448299844287138e-05
+
+Move number 14 
+Total States for game: 3640627
+Max branching factor for game: 34.01267609672493
+Average states per move for game: 260044.7857142857
+Average eval function execution time for game: 1.6117894960679267e-05
+Eval function execution count: 3428515
+States for current turn: 1401038
+Current turn branching factor: 34.01267609672493
+Current turn eval function time: 21.38985300064087
+Current turn eval function count: 1338330
+Current turn eval function average time: 1.5982495349159677e-05
+
+Move number 15 
+Total States for game: 3894351
+Max branching factor for game: 34.01267609672493
+Average states per move for game: 259623.4
+Average eval function execution time for game: 1.618631827501408e-05
+Eval function execution count: 3663625
+States for current turn: 253724
+Current turn branching factor: 22.02002336068294
+Current turn eval function time: 4.040155649185181
+Current turn eval function count: 235110
+Current turn eval function average time: 1.7184108073604614e-05
+
+Move number 16 
+Total States for game: 4030294
+Max branching factor for game: 34.01267609672493
+Average states per move for game: 251893.375
+Average eval function execution time for game: 1.6199446057529826e-05
+Eval function execution count: 3788009
+States for current turn: 135943
+Current turn branching factor: 18.779807217394804
+Current turn eval function time: 2.063047170639038
+Current turn eval function count: 124384
+Current turn eval function average time: 1.6586113733591443e-05
+
+Move number 17 
+Total States for game: 4201071
+Max branching factor for game: 34.01267609672493
+Average states per move for game: 247121.82352941178
+Average eval function execution time for game: 1.6221656307192972e-05
+Eval function execution count: 3945206
+States for current turn: 170777
+Current turn branching factor: 19.9118248476725
+Current turn eval function time: 2.6341283321380615
+Current turn eval function count: 157197
+Current turn eval function average time: 1.6756861340471265e-05
+
+Move number 18 
+Total States for game: 4337523
+Max branching factor for game: 34.01267609672493
+Average states per move for game: 240973.5
+Average eval function execution time for game: 1.6359772498892867e-05
+Eval function execution count: 4070220
+States for current turn: 136452
+Current turn branching factor: 18.803541927754097
+Current turn eval function time: 2.590097427368164
+Current turn eval function count: 125014
+Current turn eval function average time: 2.071845895154274e-05
+
+Move number 19 
+Total States for game: 4592088
+Max branching factor for game: 34.01267609672493
+Average states per move for game: 241688.84210526315
+Average eval function execution time for game: 1.660592632115137e-05
+Eval function execution count: 4307989
+States for current turn: 254565
+Current turn branching factor: 22.082020453598744
+Current turn eval function time: 4.950274705886841
+Current turn eval function count: 237769
+Current turn eval function average time: 2.081968089148224e-05
+
+Move number 20 
+Total States for game: 4942218
+Max branching factor for game: 34.01267609672493
+Average states per move for game: 247110.9
+Average eval function execution time for game: 1.6974759884974518e-05
+Eval function execution count: 4640460
+States for current turn: 350130
+Current turn branching factor: 24.012558859815407
+Current turn eval function time: 7.232546329498291
+Current turn eval function count: 332471
+Current turn eval function average time: 2.1753916370144435e-05
+
+Move number 21 
+Total States for game: 5139554
+Max branching factor for game: 34.01267609672493
+Average states per move for game: 244740.66666666666
+Average eval function execution time for game: 1.7182463176044406e-05
+Eval function execution count: 4826370
+States for current turn: 197336
+Current turn branching factor: 20.76470127838179
+Current turn eval function time: 4.158230543136597
+Current turn eval function count: 185910
+Current turn eval function average time: 2.2366900882882022e-05
+
+Move number 22 
+Total States for game: 5589232
+Max branching factor for game: 34.01267609672493
+Average states per move for game: 254056.0
+Average eval function execution time for game: 1.7501444877056618e-05
+Eval function execution count: 5256092
+States for current turn: 449678
+Current turn branching factor: 25.603356130507656
+Current turn eval function time: 9.060279607772827
+Current turn eval function count: 429722
+Current turn eval function average time: 2.1084048775191466e-05
+
+Move number 23 
+Total States for game: 5900950
+Max branching factor for game: 34.01267609672493
+Average states per move for game: 256563.04347826086
+Average eval function execution time for game: 1.767353455007315e-05
+Eval function execution count: 5554069
+States for current turn: 311718
+Current turn branching factor: 23.363918673495633
+Current turn eval function time: 6.170825958251953
+Current turn eval function count: 297977
+Current turn eval function average time: 2.0709068009450235e-05
+
+Move number 24 
+Total States for game: 6926048
+Max branching factor for game: 34.01267609672493
+Average states per move for game: 288585.3333333333
+Average eval function execution time for game: 1.8103189032228224e-05
+Eval function execution count: 6544005
+States for current turn: 1025098
+Current turn branching factor: 31.542911650269982
+Current turn eval function time: 20.307329177856445
+Current turn eval function count: 989936
+Current turn eval function average time: 2.051377985835089e-05
+
+Move number 25 
+Total States for game: 8973818
+Max branching factor for game: 37.6063834824462
+Average states per move for game: 358952.72
+Average eval function execution time for game: 1.867587896251983e-05
+Eval function execution count: 8544080
+States for current turn: 2047770
+Current turn branching factor: 37.6063834824462
+Current turn eval function time: 41.100844383239746
+Current turn eval function count: 2000075
+Current turn eval function average time: 2.0549651579685636e-05
+
+Move number 26 
+Total States for game: 9511254
+Max branching factor for game: 37.6063834824462
+Average states per move for game: 365817.46153846156
+Average eval function execution time for game: 1.8757976950206304e-05
+Eval function execution count: 9069650
+States for current turn: 537436
+Current turn branching factor: 26.92511964640482
+Current turn eval function time: 10.560081720352173
+Current turn eval function count: 525570
+Current turn eval function average time: 2.0092626520448606e-05
+
+Move number 27 
+Total States for game: 9864227
+Max branching factor for game: 37.6063834824462
+Average states per move for game: 365341.74074074073
+Average eval function execution time for game: 1.8814463836938273e-05
+Eval function execution count: 9410203
+States for current turn: 352973
+Current turn branching factor: 24.15717678897129
+Current turn eval function time: 6.919638395309448
+Current turn eval function count: 340553
+Current turn eval function average time: 2.031882965444277e-05
+
+Move number 28 
+Total States for game: 10056167
+Max branching factor for game: 37.6063834824462
+Average states per move for game: 359148.8214285714
+Average eval function execution time for game: 1.883919107486732e-05
+Eval function execution count: 9592655
+States for current turn: 191940
+Current turn branching factor: 20.66746244270751
+Current turn eval function time: 3.669936418533325
+Current turn eval function count: 182452
+Current turn eval function average time: 2.0114531046704475e-05
+
+
+INFO:root:
+
+INFO:root:Stats for Agent blackA
+Move number 1 
+Total States for game: 6110
+Max branching factor for game: 8.384895465289011
+Average states per move for game: 6110.0
+Average eval function execution time for game: 2.141450306627882e-05
+Eval function execution count: 4943
+States for current turn: 6110
+Current turn branching factor: 8.384895465289011
+Current turn eval function time: 0.10585188865661621
+Current turn eval function count: 4943
+Current turn eval function average time: 2.141450306627882e-05
+
+Move number 2 
+Total States for game: 19121
+Max branching factor for game: 10.158205880770257
+Average states per move for game: 9560.5
+Average eval function execution time for game: 2.202398314728944e-05
+Eval function execution count: 15591
+States for current turn: 13011
+Current turn branching factor: 10.158205880770257
+Current turn eval function time: 0.23752403259277344
+Current turn eval function count: 10648
+Current turn eval function average time: 2.230691515709743e-05
+
+Move number 3 
+Total States for game: 35420
+Max branching factor for game: 10.854188675354097
+Average states per move for game: 11806.666666666666
+Average eval function execution time for game: 2.1795022556809357e-05
+Eval function execution count: 29471
+States for current turn: 16299
+Current turn branching factor: 10.854188675354097
+Current turn eval function time: 0.29894518852233887
+Current turn eval function count: 13880
+Current turn eval function average time: 2.1537837789793866e-05
+
+Move number 4 
+Total States for game: 53837
+Max branching factor for game: 11.065343325903257
+Average states per move for game: 13459.25
+Average eval function execution time for game: 2.1674856468135307e-05
+Eval function execution count: 44463
+States for current turn: 18417
+Current turn branching factor: 11.065343325903257
+Current turn eval function time: 0.3214080333709717
+Current turn eval function count: 14992
+Current turn eval function average time: 2.143863616401892e-05
+
+Move number 5 
+Total States for game: 139575
+Max branching factor for game: 16.78683412229556
+Average states per move for game: 27915.0
+Average eval function execution time for game: 1.9315900588046555e-05
+Eval function execution count: 123873
+States for current turn: 85738
+Current turn branching factor: 16.78683412229556
+Current turn eval function time: 1.4289894104003906
+Current turn eval function count: 79410
+Current turn eval function average time: 1.7995081354997994e-05
+
+Move number 6 
+Total States for game: 188118
+Max branching factor for game: 16.78683412229556
+Average states per move for game: 31353.0
+Average eval function execution time for game: 1.945349050661317e-05
+Eval function execution count: 168311
+States for current turn: 48543
+Current turn branching factor: 14.519064218529039
+Current turn eval function time: 0.8815178871154785
+Current turn eval function count: 44438
+Current turn eval function average time: 1.9837028829278513e-05
+
+Move number 7 
+Total States for game: 225539
+Max branching factor for game: 16.78683412229556
+Average states per move for game: 32219.85714285714
+Average eval function execution time for game: 1.9208125576861673e-05
+Eval function execution count: 201003
+States for current turn: 37421
+Current turn branching factor: 13.446534564587006
+Current turn eval function time: 0.5866544246673584
+Current turn eval function count: 32692
+Current turn eval function average time: 1.7944892471165987e-05
+
+Move number 8 
+Total States for game: 261012
+Max branching factor for game: 16.78683412229556
+Average states per move for game: 32626.5
+Average eval function execution time for game: 1.8929305566647714e-05
+Eval function execution count: 231535
+States for current turn: 35473
+Current turn branching factor: 13.21870204223779
+Current turn eval function time: 0.5219058990478516
+Current turn eval function count: 30532
+Current turn eval function average time: 1.7093734411366814e-05
+
+Move number 9 
+Total States for game: 300844
+Max branching factor for game: 16.78683412229556
+Average states per move for game: 33427.11111111111
+Average eval function execution time for game: 1.8847415096353443e-05
+Eval function execution count: 265889
+States for current turn: 39832
+Current turn branching factor: 13.614269012213999
+Current turn eval function time: 0.628523588180542
+Current turn eval function count: 34354
+Current turn eval function average time: 1.8295499452190198e-05
+
+Move number 10 
+Total States for game: 370407
+Max branching factor for game: 16.78683412229556
+Average states per move for game: 37040.7
+Average eval function execution time for game: 1.8786274949044197e-05
+Eval function execution count: 331568
+States for current turn: 69563
+Current turn branching factor: 16.00872089468965
+Current turn eval function time: 1.2176072597503662
+Current turn eval function count: 65679
+Current turn eval function average time: 1.8538760635063965e-05
+
+Move number 11 
+Total States for game: 409649
+Max branching factor for game: 16.78683412229556
+Average states per move for game: 37240.818181818184
+Average eval function execution time for game: 1.8929760537216332e-05
+Eval function execution count: 367394
+States for current turn: 39242
+Current turn branching factor: 13.757818647916151
+Current turn eval function time: 0.7257528305053711
+Current turn eval function count: 35826
+Current turn eval function average time: 2.025771312748761e-05
+
+Move number 12 
+Total States for game: 504833
+Max branching factor for game: 17.10006959163839
+Average states per move for game: 42069.416666666664
+Average eval function execution time for game: 1.8947947008690274e-05
+Eval function execution count: 452899
+States for current turn: 95184
+Current turn branching factor: 17.10006959163839
+Current turn eval function time: 1.6268258094787598
+Current turn eval function count: 85505
+Current turn eval function average time: 1.9026089813212793e-05
+
+Move number 13 
+Total States for game: 582551
+Max branching factor for game: 17.10006959163839
+Average states per move for game: 44811.61538461538
+Average eval function execution time for game: 1.9679225313428223e-05
+Eval function execution count: 523744
+States for current turn: 77718
+Current turn branching factor: 16.314632716029838
+Current turn eval function time: 1.725369930267334
+Current turn eval function count: 70845
+Current turn eval function average time: 2.4354152449253072e-05
+
+Move number 14 
+Total States for game: 1565440
+Max branching factor for game: 31.275157412712687
+Average states per move for game: 111817.14285714286
+Average eval function execution time for game: 1.916698775718421e-05
+Eval function execution count: 1480493
+States for current turn: 982889
+Current turn branching factor: 31.275157412712687
+Current turn eval function time: 18.06971502304077
+Current turn eval function count: 956749
+Current turn eval function average time: 1.8886578426568275e-05
+
+Move number 15 
+Total States for game: 1616126
+Max branching factor for game: 31.275157412712687
+Average states per move for game: 107741.73333333334
+Average eval function execution time for game: 1.919760459586697e-05
+Eval function execution count: 1527435
+States for current turn: 50686
+Current turn branching factor: 14.719409824024543
+Current turn eval function time: 0.9465019702911377
+Current turn eval function count: 46942
+Current turn eval function average time: 2.016322206746917e-05
+
+Move number 16 
+Total States for game: 1777387
+Max branching factor for game: 31.275157412712687
+Average states per move for game: 111086.6875
+Average eval function execution time for game: 1.9206648724193005e-05
+Eval function execution count: 1676504
+States for current turn: 161261
+Current turn branching factor: 19.649288740462215
+Current turn eval function time: 2.8769302368164062
+Current turn eval function count: 149069
+Current turn eval function average time: 1.929931935423466e-05
+
+Move number 17 
+Total States for game: 2014425
+Max branching factor for game: 31.275157412712687
+Average states per move for game: 118495.58823529411
+Average eval function execution time for game: 1.9352507942021804e-05
+Eval function execution count: 1900148
+States for current turn: 237038
+Current turn branching factor: 21.746497176687786
+Current turn eval function time: 4.572605848312378
+Current turn eval function count: 223644
+Current turn eval function average time: 2.044591336370472e-05
+
+Move number 18 
+Total States for game: 2039161
+Max branching factor for game: 31.275157412712687
+Average states per move for game: 113286.72222222222
+Average eval function execution time for game: 1.9408417342183952e-05
+Eval function execution count: 1922960
+States for current turn: 24736
+Current turn branching factor: 12.289687524468846
+Current turn eval function time: 0.5489809513092041
+Current turn eval function count: 22812
+Current turn eval function average time: 2.406544587538156e-05
+
+Move number 19 
+Total States for game: 2131389
+Max branching factor for game: 31.275157412712687
+Average states per move for game: 112178.36842105263
+Average eval function execution time for game: 1.9451988979273235e-05
+Eval function execution count: 2008065
+States for current turn: 92228
+Current turn branching factor: 17.080035499964506
+Current turn eval function time: 1.7392480373382568
+Current turn eval function count: 85105
+Current turn eval function average time: 2.043649653179316e-05
+
+Move number 20 
+Total States for game: 2295511
+Max branching factor for game: 31.275157412712687
+Average states per move for game: 114775.55
+Average eval function execution time for game: 1.968803002839452e-05
+Eval function execution count: 2161637
+States for current turn: 164122
+Current turn branching factor: 19.79602574992772
+Current turn eval function time: 3.497515916824341
+Current turn eval function count: 153572
+Current turn eval function average time: 2.277443750699568e-05
+
+Move number 21 
+Total States for game: 2497381
+Max branching factor for game: 31.275157412712687
+Average states per move for game: 118922.90476190476
+Average eval function execution time for game: 1.9713854616957415e-05
+Eval function execution count: 2355808
+States for current turn: 201870
+Current turn branching factor: 20.991626566424678
+Current turn eval function time: 3.8836822509765625
+Current turn eval function count: 194171
+Current turn eval function average time: 2.000135061866377e-05
+
+Move number 22 
+Total States for game: 2844548
+Max branching factor for game: 31.275157412712687
+Average states per move for game: 129297.63636363637
+Average eval function execution time for game: 1.9835967360773214e-05
+Eval function execution count: 2692803
+States for current turn: 347167
+Current turn branching factor: 24.093831252542838
+Current turn eval function time: 6.9722959995269775
+Current turn eval function count: 336995
+Current turn eval function average time: 2.0689612604124625e-05
+
+Move number 23 
+Total States for game: 3168223
+Max branching factor for game: 31.275157412712687
+Average states per move for game: 137748.8260869565
+Average eval function execution time for game: 1.985023006990211e-05
+Eval function execution count: 3006374
+States for current turn: 323675
+Current turn branching factor: 23.66377202696608
+Current turn eval function time: 6.2628631591796875
+Current turn eval function count: 313571
+Current turn eval function average time: 1.997271163206957e-05
+
+Move number 24 
+Total States for game: 3242429
+Max branching factor for game: 31.275157412712687
+Average states per move for game: 135101.20833333334
+Average eval function execution time for game: 1.9855931092455864e-05
+Eval function execution count: 3077642
+States for current turn: 74206
+Current turn branching factor: 16.338931154171874
+Current turn eval function time: 1.4322319030761719
+Current turn eval function count: 71268
+Current turn eval function average time: 2.0096423402876072e-05
+
+Move number 25 
+Total States for game: 3443413
+Max branching factor for game: 31.275157412712687
+Average states per move for game: 137736.52
+Average eval function execution time for game: 1.9781840308314687e-05
+Eval function execution count: 3271341
+States for current turn: 200984
+Current turn branching factor: 20.978858062858755
+Current turn eval function time: 3.6036977767944336
+Current turn eval function count: 193699
+Current turn eval function average time: 1.860462767899903e-05
+
+Move number 26 
+Total States for game: 3500137
+Max branching factor for game: 31.275157412712687
+Average states per move for game: 134620.65384615384
+Average eval function execution time for game: 1.9770289809080544e-05
+Eval function execution count: 3325203
+States for current turn: 56724
+Current turn branching factor: 15.234233886283409
+Current turn eval function time: 1.0270817279815674
+Current turn eval function count: 53862
+Current turn eval function average time: 1.9068763283605647e-05
+
+Move number 27 
+Total States for game: 3512087
+Max branching factor for game: 31.275157412712687
+Average states per move for game: 130077.29629629629
+Average eval function execution time for game: 1.9766501939386183e-05
+Eval function execution count: 3336201
+States for current turn: 11950
+Current turn branching factor: 10.240671352879714
+Current turn eval function time: 0.20479655265808105
+Current turn eval function count: 10998
+Current turn eval function average time: 1.8621254106026646e-05
+
+Move number 28 
+Total States for game: 3519164
+Max branching factor for game: 31.275157412712687
+Average states per move for game: 125684.42857142857
+Average eval function execution time for game: 1.97656843771927e-05
+Eval function execution count: 3342641
+States for current turn: 7077
+Current turn branching factor: 8.958214698864698
+Current turn eval function time: 0.12456345558166504
+Current turn eval function count: 6440
+Current turn eval function average time: 1.9342151487836187e-05
+
+
+INFO:root:
+
+INFO:root:Stats for Agent blackB
+Move number 1 
+Total States for game: 6110
+Max branching factor for game: 8.384895465289011
+Average states per move for game: 6110.0
+Average eval function execution time for game: 1.8238418381536823e-05
+Eval function execution count: 4943
+States for current turn: 6110
+Current turn branching factor: 8.384895465289011
+Current turn eval function time: 0.09015250205993652
+Current turn eval function count: 4943
+Current turn eval function average time: 1.8238418381536823e-05
+
+Move number 2 
+Total States for game: 19121
+Max branching factor for game: 10.158205880770257
+Average states per move for game: 9560.5
+Average eval function execution time for game: 2.0319269662426063e-05
+Eval function execution count: 15591
+States for current turn: 13011
+Current turn branching factor: 10.158205880770257
+Current turn eval function time: 0.22664523124694824
+Current turn eval function count: 10648
+Current turn eval function average time: 2.128523959869912e-05
+
+Move number 3 
+Total States for game: 35420
+Max branching factor for game: 10.854188675354097
+Average states per move for game: 11806.666666666666
+Average eval function execution time for game: 1.9888685166316007e-05
+Eval function execution count: 29471
+States for current turn: 16299
+Current turn branching factor: 10.854188675354097
+Current turn eval function time: 0.26934170722961426
+Current turn eval function count: 13880
+Current turn eval function average time: 1.9405022134698433e-05
+
+Move number 4 
+Total States for game: 53837
+Max branching factor for game: 11.065343325903257
+Average states per move for game: 13459.25
+Average eval function execution time for game: 1.929735731473162e-05
+Eval function execution count: 44463
+States for current turn: 18417
+Current turn branching factor: 11.065343325903257
+Current turn eval function time: 0.2718789577484131
+Current turn eval function count: 14992
+Current turn eval function average time: 1.8134935815662557e-05
+
+Move number 5 
+Total States for game: 139575
+Max branching factor for game: 16.78683412229556
+Average states per move for game: 27915.0
+Average eval function execution time for game: 1.8437347380698242e-05
+Eval function execution count: 123873
+States for current turn: 85738
+Current turn branching factor: 16.78683412229556
+Current turn eval function time: 1.4258711338043213
+Current turn eval function count: 79410
+Current turn eval function average time: 1.7955813295609132e-05
+
+Move number 6 
+Total States for game: 188118
+Max branching factor for game: 16.78683412229556
+Average states per move for game: 31353.0
+Average eval function execution time for game: 1.805526046933793e-05
+Eval function execution count: 168311
+States for current turn: 48543
+Current turn branching factor: 14.519064218529039
+Current turn eval function time: 0.7550094127655029
+Current turn eval function count: 44438
+Current turn eval function average time: 1.69901753626514e-05
+
+Move number 7 
+Total States for game: 225539
+Max branching factor for game: 16.78683412229556
+Average states per move for game: 32219.85714285714
+Average eval function execution time for game: 1.8006265968517128e-05
+Eval function execution count: 201003
+States for current turn: 37421
+Current turn branching factor: 13.446534564587006
+Current turn eval function time: 0.5804145336151123
+Current turn eval function count: 32692
+Current turn eval function average time: 1.7754023419035614e-05
+
+Move number 8 
+Total States for game: 261012
+Max branching factor for game: 16.78683412229556
+Average states per move for game: 32626.5
+Average eval function execution time for game: 1.7939070679913005e-05
+Eval function execution count: 231535
+States for current turn: 35473
+Current turn branching factor: 13.21870204223779
+Current turn eval function time: 0.5342092514038086
+Current turn eval function count: 30532
+Current turn eval function average time: 1.7496700229392394e-05
+
+Move number 9 
+Total States for game: 300499
+Max branching factor for game: 16.78683412229556
+Average states per move for game: 33388.77777777778
+Average eval function execution time for game: 1.7999038791916085e-05
+Eval function execution count: 264879
+States for current turn: 39487
+Current turn branching factor: 13.513082378503183
+Current turn eval function time: 0.6140446662902832
+Current turn eval function count: 33344
+Current turn eval function average time: 1.841544704565389e-05
+
+Move number 10 
+Total States for game: 550436
+Max branching factor for game: 21.58171285299277
+Average states per move for game: 55043.6
+Average eval function execution time for game: 1.799797691675475e-05
+Eval function execution count: 481821
+States for current turn: 249937
+Current turn branching factor: 21.58171285299277
+Current turn eval function time: 3.90423583984375
+Current turn eval function count: 216942
+Current turn eval function average time: 1.79966804023368e-05
+
+Move number 11 
+Total States for game: 2810648
+Max branching factor for game: 38.39199637543053
+Average states per move for game: 255513.45454545456
+Average eval function execution time for game: 1.7540317569311544e-05
+Eval function execution count: 2654336
+States for current turn: 2260212
+Current turn branching factor: 38.39199637543053
+Current turn eval function time: 37.88609313964844
+Current turn eval function count: 2172515
+Current turn eval function average time: 1.7438817747931976e-05
+
+Move number 12 
+Total States for game: 4195369
+Max branching factor for game: 38.39199637543053
+Average states per move for game: 349614.0833333333
+Average eval function execution time for game: 1.7534343745777602e-05
+Eval function execution count: 3991369
+States for current turn: 1384721
+Current turn branching factor: 34.00443252413679
+Current turn eval function time: 23.428139686584473
+Current turn eval function count: 1337033
+Current turn eval function average time: 1.752248425176078e-05
+
+Move number 13 
+Total States for game: 5130795
+Max branching factor for game: 38.39199637543053
+Average states per move for game: 394676.53846153844
+Average eval function execution time for game: 1.7821201163061595e-05
+Eval function execution count: 4892629
+States for current turn: 935426
+Current turn branching factor: 30.811477473407503
+Current turn eval function time: 17.20648956298828
+Current turn eval function count: 901260
+Current turn eval function average time: 1.90915935057456e-05
+
+Move number 14 
+Total States for game: 5181411
+Max branching factor for game: 38.39199637543053
+Average states per move for game: 370100.78571428574
+Average eval function execution time for game: 1.7820492746655743e-05
+Eval function execution count: 4939394
+States for current turn: 50616
+Current turn branching factor: 14.705514870931722
+Current turn eval function time: 0.8299093246459961
+Current turn eval function count: 46765
+Current turn eval function average time: 1.7746377090687397e-05
+
+Move number 15 
+Total States for game: 5415826
+Max branching factor for game: 38.39199637543053
+Average states per move for game: 361055.06666666665
+Average eval function execution time for game: 1.780935287478911e-05
+Eval function execution count: 5162917
+States for current turn: 234415
+Current turn branching factor: 21.743555157010135
+Current turn eval function time: 3.9257757663726807
+Current turn eval function count: 223523
+Current turn eval function average time: 1.756318484617995e-05
+
+Move number 16 
+Total States for game: 5549541
+Max branching factor for game: 38.39199637543053
+Average states per move for game: 346846.3125
+Average eval function execution time for game: 1.7801940460850412e-05
+Eval function execution count: 5286753
+States for current turn: 133715
+Current turn branching factor: 18.75908835297465
+Current turn eval function time: 2.1662514209747314
+Current turn eval function count: 123836
+Current turn eval function average time: 1.7492905301969794e-05
+
+Move number 17 
+Total States for game: 5568676
+Max branching factor for game: 38.39199637543053
+Average states per move for game: 327569.17647058825
+Average eval function execution time for game: 1.7808704457168478e-05
+Eval function execution count: 5304201
+States for current turn: 19135
+Current turn branching factor: 11.493079561530362
+Current turn eval function time: 0.34648585319519043
+Current turn eval function count: 17448
+Current turn eval function average time: 1.9858198830535903e-05
+
+Move number 18 
+Total States for game: 5654244
+Max branching factor for game: 38.39199637543053
+Average states per move for game: 314124.6666666667
+Average eval function execution time for game: 1.783756432705316e-05
+Eval function execution count: 5382038
+States for current turn: 85568
+Current turn branching factor: 16.703078502154185
+Current turn eval function time: 1.5415010452270508
+Current turn eval function count: 77837
+Current turn eval function average time: 1.980421965423964e-05
+
+Move number 19 
+Total States for game: 5678065
+Max branching factor for game: 38.39199637543053
+Average states per move for game: 298845.5263157895
+Average eval function execution time for game: 1.7846327863218425e-05
+Eval function execution count: 5403831
+States for current turn: 23821
+Current turn branching factor: 12.150083279877265
+Current turn eval function time: 0.43609070777893066
+Current turn eval function count: 21793
+Current turn eval function average time: 2.0010586324917664e-05
+
+Move number 20 
+Total States for game: 5815726
+Max branching factor for game: 38.39199637543053
+Average states per move for game: 290786.3
+Average eval function execution time for game: 1.795375297183405e-05
+Eval function execution count: 5525422
+States for current turn: 137661
+Current turn branching factor: 18.67348415827739
+Current turn eval function time: 2.763521909713745
+Current turn eval function count: 121591
+Current turn eval function average time: 2.272801366642058e-05
+
+Move number 21 
+Total States for game: 5846715
+Max branching factor for game: 38.39199637543053
+Average states per move for game: 278415.0
+Average eval function execution time for game: 1.79792763323745e-05
+Eval function execution count: 5552650
+States for current turn: 30989
+Current turn branching factor: 12.845586427200061
+Current turn eval function time: 0.6305670738220215
+Current turn eval function count: 27228
+Current turn eval function average time: 2.3158773094682734e-05
+
+Move number 22 
+Total States for game: 5868502
+Max branching factor for game: 38.39199637543053
+Average states per move for game: 266750.0909090909
+Average eval function execution time for game: 1.7989065603643106e-05
+Eval function execution count: 5572184
+States for current turn: 21787
+Current turn branching factor: 11.822186216877995
+Current turn eval function time: 0.40575480461120605
+Current turn eval function count: 19534
+Current turn eval function average time: 2.0771721337729397e-05
+
+Move number 23 
+Total States for game: 5924815
+Max branching factor for game: 38.39199637543053
+Average states per move for game: 257600.65217391305
+Average eval function execution time for game: 1.8015184134442692e-05
+Eval function execution count: 5617582
+States for current turn: 56313
+Current turn branching factor: 14.59685117559235
+Current turn eval function time: 0.963390588760376
+Current turn eval function count: 45398
+Current turn eval function average time: 2.1220991866610336e-05
+
+Move number 24 
+Total States for game: 7232186
+Max branching factor for game: 38.39199637543053
+Average states per move for game: 301341.0833333333
+Average eval function execution time for game: 1.828372197277408e-05
+Eval function execution count: 6846292
+States for current turn: 1307371
+Current turn branching factor: 33.293721948138156
+Current turn eval function time: 23.973925352096558
+Current turn eval function count: 1228710
+Current turn eval function average time: 1.9511459459186104e-05
+
+Move number 25 
+Total States for game: 7267292
+Max branching factor for game: 38.39199637543053
+Average states per move for game: 290691.68
+Average eval function execution time for game: 1.8294892127755338e-05
+Eval function execution count: 6877903
+States for current turn: 35106
+Current turn branching factor: 13.333972610272593
+Current turn eval function time: 0.6547939777374268
+Current turn eval function count: 31611
+Current turn eval function average time: 2.0714117798786078e-05
+
+Move number 26 
+Total States for game: 7434168
+Max branching factor for game: 38.39199637543053
+Average states per move for game: 285929.53846153844
+Average eval function execution time for game: 1.8325333593937425e-05
+Eval function execution count: 7011168
+States for current turn: 166876
+Current turn branching factor: 19.106407051254678
+Current turn eval function time: 2.651499032974243
+Current turn eval function count: 133265
+Current turn eval function average time: 1.989643967263905e-05
+
+Move number 27 
+Total States for game: 7513288
+Max branching factor for game: 38.39199637543053
+Average states per move for game: 278269.9259259259
+Average eval function execution time for game: 1.834481498037076e-05
+Eval function execution count: 7079510
+States for current turn: 79120
+Current turn branching factor: 16.16858153410279
+Current turn eval function time: 1.3903086185455322
+Current turn eval function count: 68342
+Current turn eval function average time: 2.034339964510158e-05
+
+Move number 28 
+Total States for game: 7556747
+Max branching factor for game: 38.39199637543053
+Average states per move for game: 269883.8214285714
+Average eval function execution time for game: 1.8356008666524507e-05
+Eval function execution count: 7110953
+States for current turn: 43459
+Current turn branching factor: 13.316220990798048
+Current turn eval function time: 0.6564137935638428
+Current turn eval function count: 31443
+Current turn eval function average time: 2.0876309307758254e-05
